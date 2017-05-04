@@ -2,7 +2,7 @@
 
 ## Intro
 
-As discussed we begin with diving into Reverse Engineering topics. 
+We begin with diving into Reverse Engineering topics. 
 In the vast variety of computer architectures, operating systems, 
 execution file formats and different protection mechanisms I choose 
 to start up with very simple CrackMes under Linux OS. 
