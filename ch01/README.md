@@ -46,7 +46,15 @@ If you are on Ubuntu like system you can follow the steps for Windows Host witho
 * Unix cmd utilities: file, readelf, objdump, strings, strip
 * Radare2
 
+## What to read
+
+A little knowledge of "What is a computer?" would help. For example if you go through
+https://en.wikipedia.org/wiki/X86 would make my effort explaining basic assembly easier.
+You need to know that PC has a processor with x86 architecture.
+
 ## References
+
+### Infrastructure
 
 * https://www.virtualbox.org/
 * https://xubuntu.org/getxubuntu/
@@ -54,3 +62,7 @@ If you are on Ubuntu like system you can follow the steps for Windows Host witho
 * https://github.com/radare/radare2
 * https://github.com/mr6r4y/ansible-infra
 * https://github.com/mr6r4y/re-misc
+
+### Reading
+
+* https://en.wikipedia.org/wiki/X86
