@@ -66,3 +66,4 @@ You need to know that PC has a processor with x86 architecture.
 ### Reading
 
 * https://en.wikipedia.org/wiki/X86
+* https://github.com/corkami/pics/blob/master/binary/elf101/elf101.pdf
