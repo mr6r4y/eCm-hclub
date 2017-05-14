@@ -23,8 +23,8 @@ https://yurichev.com/ | RE4B-EN author's site
 
 URL | Description
 ----|-------------
-https://www.hex-rays.com/products/ida/ | IDAPro disassembler and RE environment
-http://www.radare.org/r/ | Disassembler, debugger and HEX editor
+[IDAPro](https://www.hex-rays.com/products/ida/) | IDAPro disassembler and RE environment
+[Radare2](http://www.radare.org/r/) | Disassembler, debugger and HEX editor
 
 ## Books
 
