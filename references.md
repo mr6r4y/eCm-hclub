@@ -12,7 +12,7 @@ https://www.reddit.com/r/REMath | Math, academic researches and science related 
 
 URL | Description
 ----|-------------
-http://wiki.yobi.be/wiki/Reverse-Engineering | Enormous collection of tools and links
+http://wiki.yobi.be/wiki/Reverse-Engineering | Enormous collection of links to tools and articles
 https://tuts4you.com/ | Old but gold classics in Reverse-Engineering
 https://tuts4you.com/download.php?list.17 | Famous OllyDbg tutorials
 https://yurichev.com/ | RE4B-EN author's site
