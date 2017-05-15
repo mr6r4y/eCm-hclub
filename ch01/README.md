@@ -23,23 +23,7 @@ devices to analyzing Android native applications.
 
 ## Infrastructure
 
-### Windows Host
-
-If your machine is running Windows the steps are:
-
-1. Install VirtualBox
-1. Install Ubuntu 16.04 TLS (Xubuntu if you like a lightweight graphical environment more) on a VM
-1. Install Ansible
-1. Install Git
-1. Clone Ansible playbooks for building RE environment - https://github.com/mr6r4y/ansible-infra
-1. Run playbook **build-re.yml**
-1. Clone Radare2 help scripts - https://github.com/mr6r4y/re-misc
-
-for details go to [Infrastructure](../infrastructure.md)
-
-### Linux Host
-
-If you are on Ubuntu like system you can follow the steps for Windows Host without the first two.
+A VM in OVA format is supplied. It will be available in some time as a Vagrant configuration.
 
 ## Tools of trade
 
@@ -52,18 +36,19 @@ A little knowledge of "What is a computer?" would help. For example if you go th
 https://en.wikipedia.org/wiki/X86 would make my effort explaining basic assembly easier.
 You need to know that PC has a processor with x86 architecture.
 
+## Agenda
+
+1.What is Reverse Engineering (RE)
+1. What the skill set can be used for
+1. x86 introduction
+1. ELF basic intro
+1. Tools - Radare2 fast walk-through
+1. Demo
+
 ## References
-
-### Infrastructure
-
-* https://www.virtualbox.org/
-* https://xubuntu.org/getxubuntu/
-* https://www.ubuntu.com/download/desktop
-* https://github.com/radare/radare2
-* https://github.com/mr6r4y/ansible-infra
-* https://github.com/mr6r4y/re-misc
 
 ### Reading
 
+* https://radare.org/r/
 * https://en.wikipedia.org/wiki/X86
 * https://github.com/corkami/pics/blob/master/binary/elf101/elf101.pdf
