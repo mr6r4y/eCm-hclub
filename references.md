@@ -16,6 +16,7 @@ http://wiki.yobi.be/wiki/Reverse-Engineering | Enormous collection of links to t
 https://tuts4you.com/ | Old but gold classics in Reverse-Engineering
 https://tuts4you.com/download.php?list.17 | Famous OllyDbg tutorials
 https://yurichev.com/ | RE4B-EN author's site
+[Rolf's Reading List](http://www.msreverseengineering.com/program-analysis-reading-list/) | Advanced reading list more for academic people
 [Intel Processor Manuals](https://software.intel.com/en-us/articles/intel-sdm) | They are huge but if you know what you are searching, they are the best reference for x86 architecture.
 [x86 Instruction Reference](http://www.felixcloutier.com/x86/) | Extract from Intel manuals. Very good for quick reference
 [Another x86 Reference](http://ref.x86asm.net/) | This one is with shorter descriptions and is table like
