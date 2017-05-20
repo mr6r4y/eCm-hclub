@@ -41,9 +41,8 @@ You need to know that PC has a processor with x86 architecture.
 1. What is Reverse Engineering (RE)
 1. What the skill set can be used for
 1. x86 introduction
-1. ELF basic intro
 1. Tools - Radare2 fast walk-through
-1. Demo
+1. Demo and excercises
 
 ## References
 
