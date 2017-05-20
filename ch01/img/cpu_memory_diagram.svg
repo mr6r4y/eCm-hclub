@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="cpu_memory_basic.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5097"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path5099"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker4730"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4732" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker4672"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4674"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker4482"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4484"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4159"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4156"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4730-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4732-9" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="335.85939"
+     inkscape:cy="947.37212"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#f9f9f9;fill-rule:evenodd;stroke:#000000;stroke-width:0.98765039px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect3336"
+       width="575.01239"
+       height="27.869497"
+       x="90.708115"
+       y="67.356033"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#f9f9f9;stroke:#000000;stroke-width:1.40756917;stroke-opacity:1"
+       id="rect4138"
+       width="136.73529"
+       height="105.56769"
+       x="287.34665"
+       y="182.79265"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4482)"
+       d="m 324.28571,181.64792 0,-47.14286 -110.71428,0 0,-39.285713"
+       id="path4148"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 385,183.07649 0,-48.57143 147.14286,0 0,-39.285713"
+       id="path4150"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.72292191;stroke-opacity:1"
+       id="rect4516"
+       width="45.277081"
+       height="17.419937"
+       x="307.14719"
+       y="182.93796"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.92605782px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="312.53836"
+       y="196.20009"
+       id="text4518"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4520"
+         x="312.53836"
+         y="196.20009">RIP/EIP</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.72292191;stroke-opacity:1"
+       id="rect4516-3"
+       width="45.277081"
+       height="17.419937"
+       x="365.2186"
+       y="182.93794"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.92605782px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="367.92712"
+       y="195.66269"
+       id="text4518-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4520-7"
+         x="367.92712"
+         y="195.66269">RSP/ESP</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 213.57143,94.505061 0,-27.142857 0,-20.714286"
+       id="path4555"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 90.571429,93.8622 0,-27.14285 0,-20.71429"
+       id="path4555-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 532.71429,94.14792 0,-27.14286 0,-20.71428"
+       id="path4555-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 666.14286,93.43363 0,-27.142855 0,-20.714286"
+       id="path4555-56"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:35px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="320.28571"
+       y="248.93362"
+       id="text4584"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4586"
+         x="320.28571"
+         y="248.93362">CPU</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="575.57141"
+       y="86.933632"
+       id="text4588"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4590"
+         x="575.57141"
+         y="86.933632">STACK</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.01342344px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 260.71429,94.50506 0,-27.142856"
+       id="path4592"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.01342344px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 417.57143,94.433636 0,-27.142861"
+       id="path4592-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="317.71661"
+       y="87.393837"
+       id="text4588-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4590-1"
+         x="317.71661"
+         y="87.393837">HEAP</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.02667141px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 235.42857,95.64792 0,-27.857146"
+       id="path4592-27"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker4730)"
+       d="m 533,80.076489 -43.57143,0"
+       id="path4646"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker4672)"
+       d="m 133.83859,81.076489 -43.57143,0"
+       id="path4646-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="149.05629"
+       y="86.258301"
+       id="text4588-9-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4590-1-0"
+         x="149.05629"
+         y="86.258301">CODE</tspan></text>
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.71428573;stroke-opacity:1"
+       d="m 91.178324,88.061603 0,-6.428571 15.490776,0 15.49078,0 -1.91935,2.00337 c -1.05564,1.101854 -1.91935,2.189433 -1.91935,2.416843 0,0.227409 2.65179,-0.359715 5.89286,-1.304721 3.24107,-0.945007 7.1391,-2.055985 8.66229,-2.468841 1.56108,-0.423127 2.49604,-1.018416 2.14285,-1.364351 -0.81226,-0.795585 -16.15654,-5.061856 -16.60233,-4.61606 -0.18667,0.186666 0.41433,1.141697 1.33555,2.12229 l 1.67494,1.782898 -15.12451,0 -15.124506,0 0,-6.071428 0,-6.071429 60.714286,0 60.71429,0 0,13.214286 0,13.214285 -60.71429,0 -60.714286,0 0,-6.428571 z m 66.727296,-1.862135 c 0.62142,-0.23846 1.12985,-0.881317 1.12985,-1.428571 0,-1.195737 -0.36337,-1.233078 -2.23772,-0.229957 -2.13128,1.140628 -4.90514,-0.888184 -4.90514,-3.58764 0,-3.541145 2.69989,-5.219238 5.76124,-3.580851 1.09151,0.584156 1.38162,0.505452 1.38162,-0.374822 0,-2.696653 -6.3649,-2.788212 -8.23487,-0.11846 -1.54026,2.199035 -1.34025,6.607315 0.37772,8.325293 1.39967,1.399664 4.48397,1.855852 6.7273,0.995008 z m 11.12985,-0.995008 c 1.9768,-1.976806 1.97148,-7.14441 -0.009,-8.936913 -1.93184,-1.748298 -5.42628,-1.659331 -7.27072,0.18511 -2.12879,2.12879 -2.06208,7.114655 0.11882,8.880639 2.11274,1.710801 5.38027,1.652014 7.16112,-0.128836 z m 12.00138,-0.266692 c 0.71326,-0.713254 1.18044,-2.337707 1.18044,-4.104554 0,-3.813992 -2.08768,-5.628754 -6.47524,-5.628754 l -3.13515,0 0,5.805164 0,5.805164 3.62476,-0.348294 c 2.00628,-0.192778 4.15184,-0.875366 4.80519,-1.528726 z m 10.85576,0.623835 c 0,-0.773809 -0.79365,-1.071429 -2.85714,-1.071429 -2.38095,0 -2.85715,-0.238095 -2.85715,-1.428571 0,-1.156463 0.4762,-1.428571 2.5,-1.428571 1.74603,0 2.5,-0.32313 2.5,-1.071429 0,-0.748299 -0.75397,-1.071429 -2.5,-1.071429 -2.0238,0 -2.5,-0.272108 -2.5,-1.428571 0,-1.190476 0.4762,-1.428571 2.85715,-1.428571 1.57143,0 2.85714,-0.321429 2.85714,-0.714286 0,-0.392857 -1.76786,-0.714286 -3.92857,-0.714286 l -3.92857,0 0,5.714286 0,5.714286 3.92857,0 c 3.01587,0 3.92857,-0.248918 3.92857,-1.071429 z"
+       id="path5971"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.71428573;stroke-opacity:1"
+       d="m 163.76278,84.283114 c -0.9137,-0.668115 -1.19663,-1.678911 -1.02938,-3.677659 0.44697,-5.34166 5.01431,-5.34166 5.46128,0 0.16724,1.998748 -0.11568,3.009544 -1.02938,3.677659 -0.69301,0.50674 -1.45858,0.921346 -1.70126,0.921346 -0.24269,0 -1.00825,-0.414606 -1.70126,-0.921346 z"
+       id="path5973"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.71428573;stroke-opacity:1"
+       d="m 174.74975,80.561603 c 0,-3.314013 0.20212,-3.928571 1.29205,-3.928571 2.33303,0 3.93572,1.778405 3.86436,4.288059 -0.0728,2.561744 -1.04978,3.541135 -3.54926,3.558146 -1.47319,0.01003 -1.60715,-0.31651 -1.60715,-3.917634 z"
+       id="path5975"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.71428573;stroke-opacity:1"
+       d="m 214.74975,81.275889 0,-13.214286 10,0 10,0 0,13.214286 0,13.214285 -10,0 -10,0 0,-13.214285 z"
+       id="path5977"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff9955;stroke:#000000;stroke-width:0.25253814;stroke-opacity:1"
+       d="m 261.3056,81.324522 0,-13.258252 77.78175,0 77.78174,0 0,13.258252 0,13.258252 -77.78174,0 -77.78175,0 0,-13.258252 z m 59.5447,3.4724 0.072,-2.588516 2.51654,0 2.51655,0 0,2.65165 0,2.651651 0.88389,0 0.88388,0 0,-5.555839 0,-5.555839 -0.88388,0 -0.88389,0 0,2.272843 0,2.272843 -2.52538,0 -2.52538,0 0,-2.272843 0,-2.272843 -0.88388,0 -0.88389,0 0,5.571839 0,5.571839 0.82075,-0.07913 0.82075,-0.07914 0.072,-2.588515 z m 16.72182,1.95717 0,-0.757614 -2.77792,0 -2.77792,0 0,-1.894036 0,-1.894036 2.65165,0 2.65165,0 0,-0.631346 0,-0.631345 -2.65165,0 -2.65165,0 0,-1.506685 0,-1.506685 2.71478,-0.07168 2.71479,-0.07168 0.0799,-0.69448 0.0799,-0.694479 -3.67857,0 -3.67858,0 0,5.555839 0,5.555839 3.6618,0 3.66181,0 0,-0.757615 z m 3.18994,-0.631345 0.43783,-1.38896 2.43314,0 2.43315,0 0.43783,1.38896 c 0.41939,1.330472 0.4745,1.38896 1.30881,1.38896 0.47904,0 0.87097,-0.07358 0.87097,-0.163517 0,-0.08993 -0.926,-2.590062 -2.05777,-5.555839 l -2.05779,-5.392322 -0.9506,0 c -0.94801,0 -0.95248,0.005 -1.64316,1.830901 -0.38091,1.006996 -1.29998,3.402185 -2.04238,5.322644 -0.7424,1.920458 -1.34982,3.59668 -1.34982,3.724937 0,0.128258 0.39194,0.233196 0.87098,0.233196 0.8343,0 0.88941,-0.05849 1.30881,-1.38896 z m 10.95219,-0.757615 0,-2.146574 0.94702,-0.011 c 1.92197,-0.02232 3.18106,-0.419336 3.90718,-1.232003 0.59512,-0.666051 0.70164,-1.006179 0.70164,-2.240325 0,-2.587925 -1.07326,-3.335203 -4.79011,-3.335203 l -2.28096,0 0,5.555839 0,5.555839 0.75762,0 0.75761,0 0,-2.146575 z"
+       id="path5979"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff9955;stroke:#000000;stroke-width:0.25253814;stroke-opacity:1"
+       d="m 351.71425,79.809293 0,-1.894036 1.47609,0 c 1.10929,0 1.57995,0.114762 1.89404,0.461827 0.4254,0.47007 0.56137,1.963438 0.22467,2.467691 -0.35249,0.527905 -1.29287,0.858554 -2.44177,0.858554 l -1.15303,0 0,-1.894036 z"
+       id="path5981"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff9955;stroke:#000000;stroke-width:0.25253814;stroke-opacity:1"
+       d="m 341.92406,82.902886 c 1.17029,-3.274013 1.55126,-4.230014 1.68567,-4.230014 0.0889,0 0.48749,0.880727 0.88583,1.95717 0.39833,1.076444 0.77713,2.099224 0.84176,2.272844 0.0872,0.234225 -0.35253,0.315672 -1.70429,0.315672 -1.34926,0 -1.79253,-0.08188 -1.70897,-0.315672 z"
+       id="path5983"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff9955;stroke:#000000;stroke-width:0.25253814;stroke-opacity:1"
+       d="m 532.79125,94.408692 c 0.41374,-0.108121 0.44195,-0.952296 0.44195,-13.228956 l 0,-13.113466 65.91245,0 65.91245,0 0,13.258252 0,13.258252 -66.35439,-0.02929 c -36.49492,-0.01611 -66.15552,-0.08127 -65.91246,-0.144788 z m 49.22871,-7.410858 c 1.43997,-0.399942 2.22594,-1.511439 2.22594,-3.14788 0,-1.879561 -0.81363,-2.681257 -3.33583,-3.286907 -2.0233,-0.48585 -2.7271,-0.935846 -2.72122,-1.739912 0.0111,-1.517692 2.08563,-2.118787 4.41555,-1.279403 0.55559,0.200157 1.03856,0.365632 1.07329,0.367723 0.0347,0.0021 0.0631,-0.388796 0.0631,-0.868638 0,-0.804358 -0.0739,-0.887995 -0.94701,-1.07177 -1.61988,-0.340955 -3.90917,-0.213091 -4.81812,0.269106 -1.03404,0.548554 -1.66576,1.918406 -1.46572,3.178316 0.20672,1.301972 1.28613,2.154926 3.31178,2.616979 0.92842,0.211773 1.90591,0.58222 2.1722,0.823216 0.68531,0.62019 0.643,1.987779 -0.0771,2.492148 -0.7683,0.538145 -2.69845,0.495869 -4.24836,-0.09305 l -1.27952,-0.486178 0.0773,0.92812 c 0.0723,0.868452 0.15031,0.947108 1.21367,1.223469 1.44616,0.375849 3.1501,0.405162 4.34005,0.07466 z m 29.95341,-0.343264 c 0.67115,-0.347066 0.80934,-0.56583 0.80934,-1.281281 l 0,-0.862756 -1.07329,0.613661 c -2.1272,1.216246 -4.85157,0.601319 -5.63417,-1.271709 -0.52222,-1.249841 -0.46962,-3.849746 0.0997,-4.931015 0.92909,-1.764398 3.31677,-2.265157 5.43367,-1.139587 l 1.17404,0.62424 0,-0.889664 c 0,-0.779035 -0.11055,-0.935855 -0.88902,-1.261121 -1.34703,-0.562824 -2.90423,-0.698614 -4.16436,-0.363138 -2.54892,0.678584 -3.83002,2.537876 -3.83002,5.558591 0,3.836617 2.1208,5.950636 5.73808,5.719748 0.83966,-0.05359 1.89085,-0.28578 2.33598,-0.515969 z m -21.41402,-4.446164 0,-4.798225 1.89404,0 1.89404,0 0,-0.757614 0,-0.757615 -4.67196,0 -4.67196,0 0,0.757615 0,0.757614 1.89404,0 1.89404,0 0,4.798225 0,4.798224 0.88388,0 0.88388,0 0,-4.798224 z m 4.79918,3.409265 0.4203,-1.262691 2.4253,-0.07209 2.42529,-0.07209 0.44066,1.397915 c 0.43054,1.365853 0.46219,1.397915 1.37957,1.397915 l 0.93892,0 -2.08744,-5.492704 -2.08745,-5.492705 -0.98103,-0.06861 -0.98104,-0.06861 -2.0203,5.338493 c -1.11117,2.936171 -2.06071,5.446339 -2.1101,5.57815 -0.0498,0.132978 0.3346,0.204061 0.86362,0.159689 0.89861,-0.07537 0.97755,-0.152523 1.3737,-1.342658 z m 21.21225,-1.195045 0,-2.584003 2.59283,2.584003 c 2.51476,2.506206 2.62687,2.584004 3.72359,2.584004 l 1.13077,0 -2.95714,-2.957144 -2.95715,-2.957145 2.70595,-2.586177 2.70595,-2.586178 -1.11064,-0.01252 c -1.05863,-0.01193 -1.21825,0.09094 -3.40926,2.197192 l -2.29863,2.20971 -0.0732,-2.22496 -0.0732,-2.224959 -0.81069,0.07838 -0.8107,0.07838 -0.0681,5.492705 -0.068,5.492704 0.8888,0 0.88881,0 0,-2.584004 z"
+       id="path5985"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#c8b7b7;stroke:#000000;stroke-width:0.25253814;stroke-opacity:1"
+       d="m 596.99103,81.117673 c 0.33036,-0.877696 0.75228,-1.967406 0.93761,-2.421579 l 0.33694,-0.82577 0.81884,2.26264 c 0.45037,1.244452 0.81884,2.334163 0.81884,2.421579 0,0.08742 -0.7904,0.158939 -1.75645,0.158939 l -1.75645,0 0.60067,-1.595809 z"
+       id="path5987"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#c8b7b7;stroke:#000000;stroke-width:0.25253814;stroke-opacity:1"
+       d="m 236.03465,81.324522 0,-13.258252 11.99556,0 11.99556,0 0,13.258252 0,13.258252 -11.99556,0 -11.99556,0 0,-13.258252 z"
+       id="path5989"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffccaa;stroke:#000000;stroke-width:0.25253814;stroke-opacity:1"
+       d="m 418.14647,81.324522 0,-13.258252 56.94735,0 56.94735,0 0,5.682108 0,5.682108 -15.58897,0 -15.58896,0 2.26758,-2.285142 c 1.24716,-1.256828 2.09711,-2.226973 1.88877,-2.155877 -0.20835,0.0711 -4.01536,1.161605 -8.46003,2.423352 -4.44467,1.261747 -8.2986,2.359067 -8.5643,2.438489 -0.38362,0.114673 -0.40962,0.184154 -0.12627,0.33748 0.19625,0.106193 4.05018,1.244169 8.5643,2.528836 4.51412,1.284667 8.37795,2.393036 8.5863,2.463042 0.20834,0.07001 -0.64161,-0.91104 -1.88877,-2.180103 l -2.26758,-2.307386 15.58896,0 15.58897,0 -0.003,6.376588 c -0.002,3.507123 -0.072,6.632283 -0.15572,6.944799 l -0.15229,0.56821 -56.79162,0 -56.79163,0 0,-13.258252 z"
+       id="path5991"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffccaa;stroke:#000000;stroke-width:0.25253814;stroke-opacity:1"
+       d="m 307.67258,191.64077 0,-8.33375 22.09709,0 22.09708,0 0,8.33375 0,8.33376 -22.09708,0 -22.09709,0 0,-8.33376 z m 22.81205,1.68913 c 0.64849,-2.1267 1.17907,-4.00179 1.17907,-4.16688 0,-0.16509 -0.19977,-0.30017 -0.44393,-0.30017 -0.35244,0 -0.69077,0.80091 -1.6415,3.88591 -0.65866,2.13725 -1.19756,4.01234 -1.19756,4.16688 0,0.15453 0.20809,0.28097 0.46242,0.28097 0.37673,0 0.68091,-0.71652 1.6415,-3.86671 z m -15.99352,1.4676 c 0,-1.39629 0.066,-1.64098 0.44194,-1.63805 1.17211,0.009 1.62438,0.35464 2.35256,1.79716 0.69744,1.38163 1.31722,1.83218 1.82366,1.32573 0.17868,-0.17867 -1.19397,-3.00927 -1.57284,-3.24342 -0.14382,-0.0889 -0.0396,-0.3633 0.24689,-0.64974 0.63652,-0.63653 0.64554,-2.02283 0.0182,-2.79758 -0.4086,-0.5046 -0.7555,-0.60392 -2.39911,-0.68692 l -1.92144,-0.097 0,3.81567 c 0,3.64732 0.0223,3.81568 0.50507,3.81568 0.45328,0 0.50508,-0.16836 0.50508,-1.6415 z m 7.01468,-2.21288 0.0699,-3.72177 -0.6381,0 -0.63809,0 0,3.61972 c 0,1.99084 0.0797,3.6994 0.17709,3.7968 0.0974,0.0974 0.35309,0.14332 0.56821,0.10205 0.32819,-0.063 0.40236,-0.67385 0.461,-3.7968 z m 2.83431,2.33915 0,-1.51523 1.02269,0 c 2.06622,0 3.05491,-1.13735 2.63815,-3.03485 -0.22495,-1.02416 -1.23746,-1.51084 -3.14323,-1.51084 l -1.52776,0 0,3.78808 c 0,3.61971 0.0224,3.78807 0.50507,3.78807 0.44896,0 0.50508,-0.16836 0.50508,-1.51523 z m 13.08641,0.82075 c 0.0776,-0.54632 0.007,-0.56821 -1.8309,-0.56821 l -1.9116,0 0,-1.13642 0,-1.13643 1.76777,0 c 1.5994,0 1.76776,-0.0481 1.76776,-0.50507 0,-0.45698 -0.16836,-0.50508 -1.76776,-0.50508 l -1.76777,0 0,-1.01015 0,-1.01015 1.89403,0 c 1.72568,0 1.89404,-0.0449 1.89404,-0.50508 0,-0.46963 -0.16836,-0.50508 -2.39911,-0.50508 l -2.39911,0 0,3.79755 0,3.79755 2.33597,-0.0726 c 2.2047,-0.0685 2.34052,-0.10454 2.41668,-0.64082 z m 2.57095,-3.09359 0,-3.78808 -0.63134,0 -0.63135,0 0,3.61972 c 0,1.99084 0.0758,3.69547 0.16836,3.78807 0.0926,0.0926 0.3767,0.16836 0.63135,0.16836 0.42837,0 0.46298,-0.28315 0.46298,-3.78807 z m 2.979,2.23826 0.0748,-1.41863 1.25358,-0.12046 c 1.70941,-0.16425 2.2586,-0.70775 2.2586,-2.23521 0,-1.72263 -0.7204,-2.25204 -3.06451,-2.25204 l -1.73371,0 0,3.61972 c 0,1.99084 0.0797,3.6994 0.17709,3.7968 0.0974,0.0974 0.35309,0.14365 0.56821,0.10277 0.28667,-0.0545 0.4111,-0.45318 0.46593,-1.49295 z"
+       id="path5993"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffccaa;stroke:#000000;stroke-width:0.25253814;stroke-opacity:1"
+       d="m 343.02792,191.1357 c 0,-1.26014 0.002,-1.26269 0.83338,-1.26269 1.00373,0 1.43946,0.38222 1.43946,1.26269 0,0.88046 -0.43573,1.26269 -1.43946,1.26269 -0.8317,0 -0.83338,-0.003 -0.83338,-1.26269 z"
+       id="path5995"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffccaa;stroke:#000000;stroke-width:0.25253814;stroke-opacity:1"
+       d="m 324.3401,191.1357 0,-1.26269 0.86584,0 c 0.95361,0 1.65954,0.53712 1.65954,1.26269 0,0.72556 -0.70593,1.26269 -1.65954,1.26269 l -0.86584,0 0,-1.26269 z"
+       id="path5997"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffccaa;stroke:#000000;stroke-width:0.25253814;stroke-opacity:1"
+       d="m 314.49111,191.00943 c 0,-1.09975 0.025,-1.13642 0.77422,-1.13642 1.07863,0 1.75116,0.42045 1.75116,1.0948 0,0.8238 -0.47082,1.17804 -1.56573,1.17804 l -0.95965,0 0,-1.13642 z"
+       id="path5999"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffccaa;stroke:#000000;stroke-width:0.25253814;stroke-opacity:1"
+       d="m 365.75635,191.64077 0,-8.33375 22.09709,0 22.09709,0 0,8.33375 0,8.33376 -22.09709,0 -22.09709,0 0,-8.33376 z m 23.53227,1.01016 c 0.66419,-2.15289 1.20961,-3.99958 1.21204,-4.10375 0.002,-0.10417 -0.21404,-0.1894 -0.48106,-0.1894 -0.32661,0 -0.56967,0.2686 -0.74272,0.82075 -0.14148,0.45141 -0.67651,2.18445 -1.18897,3.8512 -0.51246,1.66676 -0.98973,3.18251 -1.0606,3.36836 -0.0896,0.23509 0.051,0.31192 0.46243,0.25253 0.52734,-0.0761 0.72185,-0.50862 1.79888,-3.99969 z m -9.26192,2.52355 c 0.44797,-0.42084 0.6294,-0.8571 0.6294,-1.5134 0,-1.2064 -0.73077,-1.88122 -2.52538,-2.33204 -1.42972,-0.35915 -1.81716,-0.86808 -1.28561,-1.68873 0.25984,-0.40115 1.54496,-0.49785 2.63025,-0.19791 0.64031,0.17696 0.70491,0.13955 0.63134,-0.36568 -0.0583,-0.40039 -0.33231,-0.62737 -0.94944,-0.78648 -1.90234,-0.49048 -3.80446,0.54765 -3.80446,2.07636 0,0.99236 0.70689,1.68351 2.07012,2.02404 1.49462,0.37334 1.8303,0.59618 1.93134,1.28208 0.17006,1.15444 -1.19792,1.55346 -3.05444,0.89092 -0.91771,-0.32751 -0.94702,-0.32 -0.94702,0.24257 0,1.23308 3.46292,1.50593 4.6739,0.36827 z m 22.01166,-0.0997 c 1.28659,-1.49575 0.41151,-3.18462 -1.93682,-3.73802 -1.23124,-0.29015 -1.39803,-0.40617 -1.46886,-1.02168 -0.10711,-0.93086 0.911,-1.36712 2.25577,-0.96659 1.232,0.36695 1.28054,0.35522 1.18782,-0.28687 -0.0965,-0.66857 -1.34078,-1.02675 -2.79448,-0.80444 -1.61219,0.24654 -2.4994,2.04182 -1.61008,3.25803 0.19144,0.26182 1.07217,0.7097 1.95717,0.99529 1.82209,0.58798 2.23111,1.27978 1.18845,2.01009 -0.69202,0.48471 -1.28426,0.49352 -2.56107,0.0381 l -0.9614,-0.3429 0.0775,0.65967 c 0.0953,0.81068 0.81028,1.06384 2.70882,0.95907 1.123,-0.062 1.47424,-0.19832 1.95717,-0.75976 z m -31.98886,-0.90861 c 0,-1.36295 0.0524,-1.51523 0.52168,-1.51523 0.89988,0 1.47806,0.48127 2.13457,1.77683 0.50472,0.99602 0.76411,1.25362 1.26235,1.25362 0.3449,0 0.62709,-0.0606 0.62709,-0.13466 0,-0.33997 -1.26654,-2.5846 -1.62731,-2.88402 -0.36643,-0.30411 -0.35652,-0.36858 0.10657,-0.69294 0.37999,-0.26616 0.51058,-0.63994 0.51058,-1.4614 0,-1.61096 -0.76894,-2.15058 -3.06451,-2.15058 l -1.73371,0 0,3.6618 0,3.6618 0.63134,0 c 0.60329,0 0.63135,-0.0673 0.63135,-1.51522 z m 13.13198,0.15839 0,-1.35682 1.28377,-0.12336 c 1.6698,-0.16044 2.36656,-0.82048 2.36656,-2.24183 0,-0.81963 -0.14661,-1.16178 -0.70283,-1.64022 -0.59545,-0.51219 -0.97073,-0.60454 -2.4565,-0.60454 l -1.75369,0 0,3.6618 0,3.6618 0.63135,0 c 0.59509,0 0.63134,-0.0779 0.63134,-1.35683 z m 13.13199,0.85176 c 0,-0.46018 -0.16836,-0.50508 -1.89404,-0.50508 l -1.89404,0 0,-1.13642 0,-1.13642 1.76777,0 c 1.59941,0 1.76777,-0.0481 1.76777,-0.50508 0,-0.45697 -0.16836,-0.50507 -1.76777,-0.50507 l -1.76777,0 0,-1.01016 0,-1.01015 1.76777,0 c 1.59941,0 1.76777,-0.0481 1.76777,-0.50508 0,-0.46963 -0.16836,-0.50507 -2.39911,-0.50507 l -2.39912,0 0,3.6618 0,3.6618 2.52539,0 c 2.35702,0 2.52538,-0.0337 2.52538,-0.50507 z m 8.83883,-0.85176 0,-1.35682 1.26525,-0.12158 c 1.72192,-0.16545 2.27029,-0.70562 2.27029,-2.23634 0,-1.72262 -0.72041,-2.25203 -3.06452,-2.25203 l -1.73371,0 0,3.6618 0,3.6618 0.63135,0 c 0.59509,0 0.63134,-0.0779 0.63134,-1.35683 z"
+       id="path6001"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffccaa;stroke:#000000;stroke-width:0.25253814;stroke-opacity:1"
+       d="m 370.0495,190.50435 c 0,-1.11729 0.014,-1.13642 0.83338,-1.13642 0.95955,0 1.43946,0.37888 1.43946,1.13642 0,0.75755 -0.47991,1.13642 -1.43946,1.13642 -0.81935,0 -0.83338,-0.0191 -0.83338,-1.13642 z"
+       id="path6003"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffccaa;stroke:#000000;stroke-width:0.25253814;stroke-opacity:1"
+       d="m 383.18148,190.63062 0,-1.26269 0.86585,0 c 0.89848,0 1.65953,0.52943 1.65953,1.15446 0,0.617 -0.97216,1.37092 -1.76776,1.37092 -0.74078,0 -0.75762,-0.0281 -0.75762,-1.26269 z"
+       id="path6007"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffccaa;stroke:#000000;stroke-width:0.25253814;stroke-opacity:1"
+       d="m 405.1523,190.63062 c 0,-1.26014 0.002,-1.26269 0.83338,-1.26269 1.01661,0 1.43946,0.38315 1.43946,1.30431 0,0.77644 -0.59168,1.22107 -1.62489,1.22107 -0.60918,0 -0.64795,-0.0756 -0.64795,-1.26269 z"
+       id="path6009"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#c8b7b7;stroke:#000000;stroke-width:0.71428573;stroke-opacity:1"
+       d="m 418.36004,81.444471 0,-12.857143 56.78571,0 56.78571,0 0,5.357143 0,5.357143 -15.13363,0 -15.13364,0 2.04585,-2.135407 c 1.12522,-1.174473 1.90857,-2.260236 1.74078,-2.412805 -0.3167,-0.28797 -17.22042,4.44224 -17.74555,4.96578 -0.16369,0.163195 -0.12806,0.466277 0.0792,0.673518 0.66798,0.667979 17.22797,5.351757 17.6014,4.978327 0.19842,-0.198418 -0.39297,-1.163065 -1.31418,-2.143658 l -1.67495,-1.782898 14.76737,0 14.76736,0 0,2.038078 c 0,1.120943 -0.2065,4.0138 -0.4589,6.428571 l -0.45889,4.390494 -56.32682,0 -56.32681,0 0,-12.857143 z"
+       id="path6011"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#c8b7b7;stroke:#000000;stroke-width:0.71428573;stroke-opacity:1"
+       d="m 236.21718,81.444471 0,-12.857143 11.78571,0 11.78572,0 0,12.857143 0,12.857143 -11.78572,0 -11.78571,0 0,-12.857143 z"
+       id="path6013"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="53.571426"
+       y="39.933632"
+       id="text6034"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6036"
+         x="53.571426"
+         y="39.933632"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono Medium'">0x08048000</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="176.06337"
+       y="40.340946"
+       id="text6034-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6036-2"
+         x="176.06337"
+         y="40.340946"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono Medium'">0x08048414</tspan></text>
+    <path
+       style="fill:#ff9955;stroke:#000000;stroke-width:0.25253814;stroke-opacity:1;fill-opacity:1"
+       d="m 597.0047,81.80921 c 0.0871,-0.346911 0.4119,-1.205899 0.72185,-1.908862 l 0.56355,-1.278114 0.68263,1.908862 0.68262,1.908862 -1.40448,0 c -1.37165,0 -1.40078,-0.01474 -1.24617,-0.630748 z"
+       id="path6060"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="495.49139"
+       y="40.173534"
+       id="text6034-6-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6036-2-1"
+         x="495.49139"
+         y="40.173534"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono Medium'">0xffbc23f0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="629.74805"
+       y="39.406166"
+       id="text6034-6-6-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/user/workspace/my-github/eCm-hclub/ch01/img/cpu_memory_diagram"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan6036-2-1-5"
+         x="629.74805"
+         y="39.406166"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:'Tlwg Mono';-inkscape-font-specification:'Tlwg Mono Medium'">0xffbc3ff0</tspan></text>
+  </g>
+</svg>
