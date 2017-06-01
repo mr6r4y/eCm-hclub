@@ -7,8 +7,6 @@ This guide describes main topics for that.
 
 ## Steps for creating basic Linux VM with RE tools installed
 
-### Windows
-
 1. Install VirtualBox
 1. Install Ubuntu 16.04 TLS (Xubuntu if you like a lightweight graphical environment more) on a VM
 1. Install Ansible
