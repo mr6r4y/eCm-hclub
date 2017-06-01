@@ -37,3 +37,4 @@ https://github.com/mr6r4y/ansible-infra | Aims to automate the creation of any e
 https://github.com/mr6r4y/re-misc | Scripts that I use/write on top of Radare2
 https://github.com/mr6r4y/re-test | Snippets of code in C, C++ or any kind of obscure language or execution environment. The aim of this repo is to collect samples to study
 https://github.com/mr6r4y/re-write-ups | My efforts and work on reversing/breaking stuff with documentation included. We are going to use this for examples
+https://github.com/mr6r4y/eCm-hclub | The main repo that documents and contains everything we do in the Hacking Club
