@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640"
+   height="480"
+   id="svg4152"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 640 480"
+   sodipodi:docname="stack_push_pop.svg">
+  <defs
+     id="defs4154" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.095627"
+     inkscape:cx="309.87959"
+     inkscape:cy="267.55645"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4157">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4700"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-18,80)"><flowRegion
+         id="flowRegion4702"><rect
+           id="rect4704"
+           width="390.80429"
+           height="95.857651"
+           x="26.609203"
+           y="24.152571"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'" /></flowRegion><flowPara
+         id="flowPara4706"
+         style="fill:#4d4d4d">- offset -   0 1  2 3  4 5  6 7  8 9  A B  C D  E F  0123456789ABCDEF</flowPara><flowPara
+         id="flowPara4740"><flowSpan
+           style="fill:#008000"
+           id="flowSpan4756">0xff9fa5e8</flowSpan><flowSpan
+           style="fill:#cccccc"
+           id="flowSpan4782">  c85d 51f7 58e8 6df7 0080 0000 00b0 6bf7  .]Q.X.m.......k.</flowSpan></flowPara><flowPara
+         id="flowPara4742"><flowSpan
+           style="fill:#008000"
+           id="flowSpan4758">0xff9fa5f8</flowSpan><flowSpan
+           style="fill:#cccccc"
+           id="flowSpan4794">  4492 6bf7 ec10 52f7 0100 0000 0300 0000  D.k...R.........</flowSpan></flowPara><flowPara
+         id="flowPara4744"><flowSpan
+           style="fill:#008000"
+           id="flowSpan4760">0xff9fa608</flowSpan><flowSpan
+           style="fill:#cccccc"
+           id="flowSpan4796">  507a 53f7 ab84 0408 0100 0000 d4a6 9fff  PzS.............</flowSpan></flowPara><flowPara
+         id="flowPara4746"><flowSpan
+           style="fill:#008000"
+           id="flowSpan4762">0xff9fa618</flowSpan><flowSpan
+           style="fill:#cccccc"
+           id="flowSpan4798">  dca6 9fff 8184 0408 </flowSpan><flowSpan
+           style="fill:#ff0000"
+           id="flowSpan4774">dcb3 6bf7 40a6 9fff</flowSpan><flowSpan
+           style="fill:#cccccc"
+           id="flowSpan4800">  ........</flowSpan><flowSpan
+           style="fill:#ff0000"
+           id="flowSpan4772">..k.@...</flowSpan></flowPara><flowPara
+         id="flowPara4748"><flowSpan
+           style="fill:#008000"
+           id="flowSpan4764">0xff9fa628</flowSpan><flowSpan
+           style="fill:#ff0000"
+           id="flowSpan4770">  0000 0000 3716 52f7 00b0 6bf7 00b0 6bf7  ....7.R...k...k.</flowSpan></flowPara><flowPara
+         id="flowPara4750"><flowSpan
+           style="fill:#008000"
+           id="flowSpan4766">0xff9fa638</flowSpan><flowSpan
+           style="fill:#ff0000"
+           id="flowSpan4778">  0000 0000 3716 52f7 0100 0000 d4a6 9fff  ....7.R.........</flowSpan></flowPara><flowPara
+         id="flowPara4752"><flowSpan
+           style="fill:#008000"
+           id="flowSpan4768">0xff9fa648</flowSpan><flowSpan
+           style="fill:#ff0000"
+           id="flowSpan4780">  dca6 9fff 0000 0000 0000 0000 0000 0000  ................</flowSpan></flowPara><flowPara
+         id="flowPara4754">0xff9fa658  00b0 6bf7 047c 70f7 0070 70f7 0000 0000  ..k..|p..pp.....</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.13787746px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="8.6091118"
+       y="307.21964"
+       id="text4821"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4823"
+         x="8.6091118"
+         y="307.21964"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#4d4d4d;fill-opacity:1">- offset -   0 1  2 3  4 5  6 7  8 9  A B  C D  E F  0123456789ABCDEF</tspan><tspan
+         sodipodi:role="line"
+         x="8.6091118"
+         y="318.58044"
+         id="tspan4825"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"><tspan
+           style="fill:#008000"
+           id="tspan4841">0xff9fa5e8</tspan><tspan
+           style="fill:#cccccc"
+           id="tspan4873">  c85d 51f7 58e8 6df7 0080 0000 00b0 6bf7  .]Q.X.m.......k.</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="8.6091118"
+         y="329.94122"
+         id="tspan4827"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"><tspan
+           style="fill:#008000"
+           id="tspan4843">0xff9fa5f8</tspan><tspan
+           style="fill:#cccccc"
+           id="tspan4875">  4492 6bf7 ec10 52f7 0100 0000 0300 0000  D.k...R.........</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="8.6091118"
+         y="341.30203"
+         id="tspan4829"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"><tspan
+           style="fill:#008000"
+           id="tspan4845">0xff9fa608</tspan><tspan
+           style="fill:#cccccc"
+           id="tspan4877">  507a 53f7 ab84 0408 0100 0000 d4a6 9fff  PzS.............</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="8.6091118"
+         y="352.66281"
+         id="tspan4831"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"><tspan
+           style="fill:#008000"
+           id="tspan4847">0xff9fa618</tspan><tspan
+           style="fill:#cccccc"
+           id="tspan4879">  dca6 9fff </tspan><tspan
+           style="fill:#ff0000"
+           id="tspan4867">0300 0000 dcb3 6bf7 40a6 9fff</tspan><tspan
+           style="fill:#cccccc"
+           id="tspan4881">  ....</tspan><tspan
+           style="fill:#ff0000"
+           id="tspan4869">......k.@...</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="8.6091118"
+         y="364.02362"
+         id="tspan4833"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"><tspan
+           style="fill:#008000"
+           id="tspan4849">0xff9fa628</tspan><tspan
+           style="fill:#ff0000"
+           id="tspan4857">  0000 0000 3716 52f7 00b0 6bf7 00b0 6bf7  ....7.R...k...k.</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="8.6091118"
+         y="375.3844"
+         id="tspan4835"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ff0000"><tspan
+   style="fill:#008000"
+   id="tspan4861">0xff9fa638</tspan>  0000 0000 3716 52f7 0100 0000 d4a6 9fff  ....7.R.........</tspan><tspan
+         sodipodi:role="line"
+         x="8.6091118"
+         y="386.74521"
+         id="tspan4837"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ff0000"><tspan
+   style="fill:#008000"
+   id="tspan4863">0xff9fa648</tspan>  dca6 9fff 0000 0000 0000 0000 0000 0000  ................</tspan><tspan
+         sodipodi:role="line"
+         x="8.6091118"
+         y="398.10599"
+         id="tspan4839"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"><tspan
+   id="tspan4871"
+   style="fill:#008000">0xff9fa658</tspan><tspan
+   style="fill:#ff0000"
+   id="tspan4855">  00b0 6bf7 047c 70f7 0070 70f7 0000 0000  ..k..|p..pp....</tspan>.</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2" />
+</svg>
