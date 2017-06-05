@@ -27,8 +27,8 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.5494506"
      inkscape:cx="285.45923"
-     inkscape:cy="369.31902"
-     inkscape:current-layer="g3074"
+     inkscape:cy="463.54597"
+     inkscape:current-layer="layer2"
      inkscape:document-units="px"
      showgrid="false"
      inkscape:window-width="1680"
@@ -58,6 +58,100 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2">
+    <g
+       id="g5197"
+       transform="matrix(1.2765433,0,0,1.2765433,-2.5440157,-80.209397)"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <flowRoot
+         transform="translate(-17.984638,93.439274)"
+         style="font-size:9.08863544px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="flowRoot4700"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4702"><rect
+             style="font-size:9.08863544px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+             y="24.152571"
+             x="26.609203"
+             height="95.857651"
+             width="390.80429"
+             id="rect4704" /></flowRegion><flowPara
+           style="fill:#4d4d4d"
+           id="flowPara4706">- offset -   0 1  2 3  4 5  6 7  8 9  A B  C D  E F  0123456789ABCDEF</flowPara><flowPara
+           id="flowPara4740"><flowSpan
+             id="flowSpan4756"
+             style="fill:#008000">0xff9fa5e8</flowSpan><flowSpan
+             id="flowSpan4782"
+             style="fill:#cccccc">  c85d 51f7 58e8 6df7 0080 0000 00b0 6bf7  .]Q.X.m.......k.</flowSpan></flowPara><flowPara
+           id="flowPara4742"><flowSpan
+             id="flowSpan4758"
+             style="fill:#008000">0xff9fa5f8</flowSpan><flowSpan
+             id="flowSpan4794"
+             style="fill:#cccccc">  4492 6bf7 ec10 52f7 0100 0000 0300 0000  D.k...R.........</flowSpan></flowPara><flowPara
+           id="flowPara4744"><flowSpan
+             id="flowSpan4760"
+             style="fill:#008000">0xff9fa608</flowSpan><flowSpan
+             id="flowSpan4796"
+             style="fill:#cccccc">  507a 53f7 ab84 0408 0100 0000 d4a6 9fff  PzS.............</flowSpan></flowPara><flowPara
+           id="flowPara4746"><flowSpan
+             id="flowSpan4762"
+             style="fill:#008000">0xff9fa618</flowSpan><flowSpan
+             id="flowSpan4798"
+             style="fill:#cccccc">  dca6 9fff 8184 0408 </flowSpan><flowSpan
+             id="flowSpan4774"
+             style="fill:#ff0000">dcb3 6bf7 40a6 9fff</flowSpan><flowSpan
+             id="flowSpan4800"
+             style="fill:#cccccc">  ........</flowSpan><flowSpan
+             id="flowSpan4772"
+             style="fill:#ff0000">..k.@...</flowSpan></flowPara><flowPara
+           id="flowPara4748"><flowSpan
+             id="flowSpan4764"
+             style="fill:#008000">0xff9fa628</flowSpan><flowSpan
+             id="flowSpan4770"
+             style="fill:#ff0000">  0000 0000 3716 52f7 00b0 6bf7 00b0 6bf7  ....7.R...k...k.</flowSpan></flowPara><flowPara
+           id="flowPara4750"><flowSpan
+             id="flowSpan4766"
+             style="fill:#008000">0xff9fa638</flowSpan><flowSpan
+             id="flowSpan4778"
+             style="fill:#ff0000">  0000 0000 3716 52f7 0100 0000 d4a6 9fff  ....7.R.........</flowSpan></flowPara><flowPara
+           id="flowPara4752"><flowSpan
+             id="flowSpan4768"
+             style="fill:#008000">0xff9fa648</flowSpan><flowSpan
+             id="flowSpan4780"
+             style="fill:#ff0000">  dca6 9fff 0000 0000 0000 0000 0000 0000  ................</flowSpan></flowPara><flowPara
+           id="flowPara4754">0xff9fa658  00b0 6bf7 047c 70f7 0070 70f7 0000 0000  ..k..|p..pp.....</flowPara></flowRoot>      <g
+         id="g5059"
+         transform="matrix(1.1181117,0,0,1.1726001,22.242496,-162.03014)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path5061"
+           d="m 142.52684,275.15154 0,12.97773 1.82544,1.82544 z"
+           style="fill:#00ffff;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        <path
+           style="fill:#00ffff;stroke:#000000;stroke-width:0.39998889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 141.26499,275.15154 0,12.97773 -1.82543,1.82544 z"
+           id="path5063"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <path
+       style="fill:#ff0000;fill-opacity:0;stroke:#969696;stroke-width:1.22920072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 312.64617,20.929616 -84.20475,0 0,101.134534 -1.88211,1.24314 3.92734,-0.0314 -2.62516,-1.59361"
+       id="path5231"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path5233"
+       d="m 312.64617,20.929616 -84.20475,0 0,101.134534 -1.88211,1.24314 3.92734,-0.0314 -2.62516,-1.59361"
+       style="fill:#ff0000;fill-opacity:0;stroke:#969696;stroke-width:1.22920072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g5136"
        transform="matrix(1.2765433,0,0,1.2765433,-2.5440157,-39.360053)"
@@ -166,82 +260,6 @@
       </g>
     </g>
     <g
-       id="g5197"
-       transform="matrix(1.2765433,0,0,1.2765433,-2.5440157,-80.209397)"
-       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <flowRoot
-         transform="translate(-17.984638,93.439274)"
-         style="font-size:9.08863544px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
-         id="flowRoot4700"
-         xml:space="preserve"><flowRegion
-           id="flowRegion4702"><rect
-             style="font-size:9.08863544px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
-             y="24.152571"
-             x="26.609203"
-             height="95.857651"
-             width="390.80429"
-             id="rect4704" /></flowRegion><flowPara
-           style="fill:#4d4d4d"
-           id="flowPara4706">- offset -   0 1  2 3  4 5  6 7  8 9  A B  C D  E F  0123456789ABCDEF</flowPara><flowPara
-           id="flowPara4740"><flowSpan
-             id="flowSpan4756"
-             style="fill:#008000">0xff9fa5e8</flowSpan><flowSpan
-             id="flowSpan4782"
-             style="fill:#cccccc">  c85d 51f7 58e8 6df7 0080 0000 00b0 6bf7  .]Q.X.m.......k.</flowSpan></flowPara><flowPara
-           id="flowPara4742"><flowSpan
-             id="flowSpan4758"
-             style="fill:#008000">0xff9fa5f8</flowSpan><flowSpan
-             id="flowSpan4794"
-             style="fill:#cccccc">  4492 6bf7 ec10 52f7 0100 0000 0300 0000  D.k...R.........</flowSpan></flowPara><flowPara
-           id="flowPara4744"><flowSpan
-             id="flowSpan4760"
-             style="fill:#008000">0xff9fa608</flowSpan><flowSpan
-             id="flowSpan4796"
-             style="fill:#cccccc">  507a 53f7 ab84 0408 0100 0000 d4a6 9fff  PzS.............</flowSpan></flowPara><flowPara
-           id="flowPara4746"><flowSpan
-             id="flowSpan4762"
-             style="fill:#008000">0xff9fa618</flowSpan><flowSpan
-             id="flowSpan4798"
-             style="fill:#cccccc">  dca6 9fff 8184 0408 </flowSpan><flowSpan
-             id="flowSpan4774"
-             style="fill:#ff0000">dcb3 6bf7 40a6 9fff</flowSpan><flowSpan
-             id="flowSpan4800"
-             style="fill:#cccccc">  ........</flowSpan><flowSpan
-             id="flowSpan4772"
-             style="fill:#ff0000">..k.@...</flowSpan></flowPara><flowPara
-           id="flowPara4748"><flowSpan
-             id="flowSpan4764"
-             style="fill:#008000">0xff9fa628</flowSpan><flowSpan
-             id="flowSpan4770"
-             style="fill:#ff0000">  0000 0000 3716 52f7 00b0 6bf7 00b0 6bf7  ....7.R...k...k.</flowSpan></flowPara><flowPara
-           id="flowPara4750"><flowSpan
-             id="flowSpan4766"
-             style="fill:#008000">0xff9fa638</flowSpan><flowSpan
-             id="flowSpan4778"
-             style="fill:#ff0000">  0000 0000 3716 52f7 0100 0000 d4a6 9fff  ....7.R.........</flowSpan></flowPara><flowPara
-           id="flowPara4752"><flowSpan
-             id="flowSpan4768"
-             style="fill:#008000">0xff9fa648</flowSpan><flowSpan
-             id="flowSpan4780"
-             style="fill:#ff0000">  dca6 9fff 0000 0000 0000 0000 0000 0000  ................</flowSpan></flowPara><flowPara
-           id="flowPara4754">0xff9fa658  00b0 6bf7 047c 70f7 0070 70f7 0000 0000  ..k..|p..pp.....</flowPara></flowRoot>      <g
-         id="g5059"
-         transform="matrix(1.1181117,0,0,1.1726001,22.242496,-162.03014)">
-        <path
-           inkscape:connector-curvature="0"
-           id="path5061"
-           d="m 142.52684,275.15154 0,12.97773 1.82544,1.82544 z"
-           style="fill:#00ffff;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
-           style="fill:#00ffff;stroke:#000000;stroke-width:0.39998889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           d="m 141.26499,275.15154 0,12.97773 -1.82543,1.82544 z"
-           id="path5063"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <g
        id="g5081"
        transform="matrix(1.2765433,0,0,1.2765433,177.60032,-28.426379)"
        inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_2.png"
@@ -286,7 +304,7 @@
          height="16.894323"
          x="171.92734"
          y="176.20758"
-         inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_1.png"
+         inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <text
@@ -321,25 +339,41 @@
          inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_2.png"
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
+         y="696.20758"
+         x="171.92734"
+         height="16.894323"
+         width="175.93399"
+         id="rect3162"
+         style="fill:#e6e6e6;stroke:#858585;stroke-width:0.72212195;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
+         sodipodi:linespacing="125%"
+         id="text3164"
+         y="708.93787"
+         x="207.50713"
+         style="font-size:11.48888969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         xml:space="preserve"><tspan
+           y="708.93787"
+           x="207.50713"
+           id="tspan3166"
+           sodipodi:role="line">ESP: <tspan
+   id="tspan3168"
+   style="fill:#008000">0xff9fa620 </tspan></tspan></text>
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
+         inkscape:connector-curvature="0"
+         id="path3170"
+         d="m 91.98497,833.28657 59.31852,0 -59.31852,2.88354 z"
+         style="fill:#00ffff;stroke:#000000;stroke-width:0.58465683;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
-    <path
-       style="fill:#ff0000;fill-opacity:0;stroke:#969696;stroke-width:1.22920072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 312.64617,20.929616 -84.20475,0 0,101.134534 -1.88211,1.24314 3.92734,-0.0314 -2.62516,-1.59361"
-       id="path5231"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
-    <path
-       sodipodi:nodetypes="cccccc"
-       inkscape:connector-curvature="0"
-       id="path5233"
-       d="m 312.64617,20.929616 -84.20475,0 0,101.134534 -1.88211,1.24314 3.92734,-0.0314 -2.62516,-1.59361"
-       style="fill:#ff0000;fill-opacity:0;stroke:#969696;stroke-width:1.22920072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
     <path
        style="fill:#ff0000;fill-opacity:0;stroke:#969696;stroke-width:1.21958697px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 157.56914,391.42944 2.6236,1.56972 -3.92499,0.0309 1.88098,-1.2245 0,-99.61804 84.15462,0 69.46397,0 1.26052,0"
@@ -352,35 +386,129 @@
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_2.png"
-       transform="matrix(1.2765433,0,0,1.2765433,177.60032,-54.426379)"
-       id="g3074">
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
+       transform="matrix(1.2765433,0,0,1.2765433,-2.5440157,439.7906)"
+       id="g3080">
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot3082"
+         style="font-size:9.08863544px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         transform="translate(-17.984638,93.439274)"><flowRegion
+           id="flowRegion3084"><rect
+             id="rect3086"
+             width="390.80429"
+             height="95.857651"
+             x="26.609203"
+             y="24.152571"
+             style="font-size:9.08863544px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono" /></flowRegion><flowPara
+           id="flowPara3088"
+           style="fill:#4d4d4d">- offset -   0 1  2 3  4 5  6 7  8 9  A B  C D  E F  0123456789ABCDEF</flowPara><flowPara
+           id="flowPara3090"><flowSpan
+             style="fill:#008000"
+             id="flowSpan3092">0xff9fa5e8</flowSpan><flowSpan
+             style="fill:#cccccc"
+             id="flowSpan3094">  c85d 51f7 58e8 6df7 0080 0000 00b0 6bf7  .]Q.X.m.......k.</flowSpan></flowPara><flowPara
+           id="flowPara3096"><flowSpan
+             style="fill:#008000"
+             id="flowSpan3098">0xff9fa5f8</flowSpan><flowSpan
+             style="fill:#cccccc"
+             id="flowSpan3100">  4492 6bf7 ec10 52f7 0100 0000 0300 0000  D.k...R.........</flowSpan></flowPara><flowPara
+           id="flowPara3102"><flowSpan
+             style="fill:#008000"
+             id="flowSpan3104">0xff9fa608</flowSpan><flowSpan
+             style="fill:#cccccc"
+             id="flowSpan3106">  507a 53f7 ab84 0408 0100 0000 d4a6 9fff  PzS.............</flowSpan></flowPara><flowPara
+           id="flowPara3108"><flowSpan
+             style="fill:#008000"
+             id="flowSpan3110">0xff9fa618</flowSpan><flowSpan
+             style="fill:#cccccc"
+             id="flowSpan3112">  dca6 9fff 0300 0000 </flowSpan><flowSpan
+             style="fill:#ff0000"
+             id="flowSpan3114">dcb3 6bf7 40a6 9fff</flowSpan><flowSpan
+             style="fill:#cccccc"
+             id="flowSpan3116">  ........</flowSpan><flowSpan
+             style="fill:#ff0000"
+             id="flowSpan3118">..k.@...</flowSpan></flowPara><flowPara
+           id="flowPara3120"><flowSpan
+             style="fill:#008000"
+             id="flowSpan3122">0xff9fa628</flowSpan><flowSpan
+             style="fill:#ff0000"
+             id="flowSpan3124">  0000 0000 3716 52f7 00b0 6bf7 00b0 6bf7  ....7.R...k...k.</flowSpan></flowPara><flowPara
+           id="flowPara3126"><flowSpan
+             style="fill:#008000"
+             id="flowSpan3128">0xff9fa638</flowSpan><flowSpan
+             style="fill:#ff0000"
+             id="flowSpan3130">  0000 0000 3716 52f7 0100 0000 d4a6 9fff  ....7.R.........</flowSpan></flowPara><flowPara
+           id="flowPara3132"><flowSpan
+             style="fill:#008000"
+             id="flowSpan3134">0xff9fa648</flowSpan><flowSpan
+             style="fill:#ff0000"
+             id="flowSpan3136">  dca6 9fff 0000 0000 0000 0000 0000 0000  ................</flowSpan></flowPara><flowPara
+           id="flowPara3138">0xff9fa658  00b0 6bf7 047c 70f7 0070 70f7 0000 0000  ..k..|p..pp.....</flowPara></flowRoot>      <g
+         transform="matrix(1.1181117,0,0,1.1726001,22.242496,-162.03014)"
+         id="g3140">
+        <path
+           style="fill:#00ffff;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 142.52684,275.15154 0,12.97773 1.82544,1.82544 z"
+           id="path3142"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3144"
+           d="m 141.26499,275.15154 0,12.97773 -1.82543,1.82544 z"
+           style="fill:#00ffff;stroke:#000000;stroke-width:0.39998889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      </g>
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path3146"
+       d="m 312.64617,540.92962 -84.20475,0 0,101.13453 -1.88211,1.24314 3.92734,-0.0314 -2.62516,-1.59361"
+       style="fill:#ff0000;fill-opacity:0;stroke:#969696;stroke-width:1.22920072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
+       style="fill:#ff0000;fill-opacity:0;stroke:#969696;stroke-width:1.22920072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 312.64617,540.92962 -84.20475,0 0,101.13453 -1.88211,1.24314 3.92734,-0.0314 -2.62516,-1.59361"
+       id="path3148"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <g
+       id="g3150"
+       transform="matrix(1.2765433,0,0,1.2765433,177.60032,465.57362)"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <g
-         id="g3092"
-         transform="translate(0,-169.20695)"
-         inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
+         inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90">
+         inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
+         transform="translate(0,-169.20695)"
+         id="g3152">
         <rect
-           y="238.12936"
-           x="106.10364"
-           height="13.234431"
+           style="fill:#e6e6e6;stroke:#858585;stroke-width:0.56568545;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3154"
            width="137.82063"
-           id="rect3076"
-           style="fill:#e6e6e6;stroke:#858585;stroke-width:0.56568545;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+           height="13.234431"
+           x="106.10364"
+           y="238.12936" />
         <text
-           sodipodi:linespacing="125%"
-           id="text3078"
-           y="248.10181"
-           x="133.97562"
+           xml:space="preserve"
            style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
-           xml:space="preserve"><tspan
-             y="248.10181"
+           x="133.97562"
+           y="248.10181"
+           id="text3156"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3158"
              x="133.97562"
-             id="tspan3080"
-             sodipodi:role="line">EAX: <tspan
-   id="tspan3082"
-   style="fill:#008000">0x00000003 </tspan></tspan></text>
+             y="248.10181">EAX: <tspan
+   style="fill:#008000"
+   id="tspan3160">0x00000003 </tspan></tspan></text>
       </g>
     </g>
   </g>
