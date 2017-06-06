@@ -13,11 +13,179 @@
    height="480"
    id="svg4152"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    viewBox="0 0 640 480"
    sodipodi:docname="stack_push_pop.svg">
   <defs
-     id="defs4154" />
+     id="defs4154">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4589"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         transform="scale(-0.4)"
+         style="fill-rule:evenodd;stroke:#808000;stroke-width:1pt;stroke-opacity:1;fill:#808000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path4591" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4585"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8)"
+         style="fill:#808000;fill-opacity:1;fill-rule:evenodd;stroke:#808000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         id="path4587" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4579"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleInM">
+      <path
+         transform="scale(-0.4)"
+         style="fill-rule:evenodd;stroke:#808000;stroke-width:1pt;stroke-opacity:1;fill:#808000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path4581" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4575"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="StopL">
+      <path
+         transform="scale(0.8)"
+         style="fill:#808000;fill-opacity:1;fill-rule:evenodd;stroke:#808000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         id="path4577" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleInM"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4413"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#808000;stroke-width:1pt;stroke-opacity:1;fill:#808000;fill-opacity:1"
+         transform="scale(-0.4)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DistanceStart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DistanceStart"
+       inkscape:isstock="true">
+      <g
+         id="g2300"
+         style="stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1">
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:1.15;stroke-linecap:square;stroke-opacity:1;fill-opacity:1"
+           d="M 0,0 L 2,0"
+           id="path2306" />
+        <path
+           style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-opacity:1;fill-opacity:1"
+           d="M 0,0 L 13,4 L 9,0 13,-4 L 0,0 z "
+           id="path2302" />
+        <path
+           style="fill:#000000;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-opacity:1;fill-opacity:1"
+           d="M 0,-4 L 0,40"
+           id="path2304" />
+      </g>
+    </marker>
+    <marker
+       inkscape:stockid="StopL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="StopL"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path4446"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         style="fill:#808000;fill-opacity:1;fill-rule:evenodd;stroke:#808000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Sstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Sstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4307"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4286"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4304"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4298"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,16 +193,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5494506"
-     inkscape:cx="285.45923"
-     inkscape:cy="463.54597"
-     inkscape:current-layer="layer2"
+     inkscape:zoom="1.095627"
+     inkscape:cx="268.05956"
+     inkscape:cy="80.308148"
+     inkscape:current-layer="g5136"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="1011"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
      inkscape:window-x="0"
-     inkscape:window-y="21"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true" />
@@ -46,7 +214,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,6 +226,13 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4583"
+       d="m 228.58314,648.65575 0,13.8361 69.01045,0"
+       style="fill:none;fill-rule:evenodd;stroke:#808000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker4585);marker-end:url(#marker4589)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g5197"
        transform="matrix(1.2765433,0,0,1.2765433,-2.5440157,-80.209397)"
@@ -119,36 +294,13 @@
              style="fill:#008000">0xff9fa648</flowSpan><flowSpan
              id="flowSpan4780"
              style="fill:#ff0000">  dca6 9fff 0000 0000 0000 0000 0000 0000  ................</flowSpan></flowPara><flowPara
-           id="flowPara4754">0xff9fa658  00b0 6bf7 047c 70f7 0070 70f7 0000 0000  ..k..|p..pp.....</flowPara></flowRoot>      <g
-         id="g5059"
-         transform="matrix(1.1181117,0,0,1.1726001,22.242496,-162.03014)">
-        <path
-           inkscape:connector-curvature="0"
-           id="path5061"
-           d="m 142.52684,275.15154 0,12.97773 1.82544,1.82544 z"
-           style="fill:#00ffff;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-        <path
-           style="fill:#00ffff;stroke:#000000;stroke-width:0.39998889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           d="m 141.26499,275.15154 0,12.97773 -1.82543,1.82544 z"
-           id="path5063"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <path
-       style="fill:#ff0000;fill-opacity:0;stroke:#969696;stroke-width:1.22920072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 312.64617,20.929616 -84.20475,0 0,101.134534 -1.88211,1.24314 3.92734,-0.0314 -2.62516,-1.59361"
-       id="path5231"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+           id="flowPara4754">0xff9fa658  00b0 6bf7 047c 70f7 0070 70f7 0000 0000  ..k..|p..pp.....</flowPara></flowRoot>    </g>
     <path
        sodipodi:nodetypes="cccccc"
        inkscape:connector-curvature="0"
        id="path5233"
-       d="m 312.64617,20.929616 -84.20475,0 0,101.134534 -1.88211,1.24314 3.92734,-0.0314 -2.62516,-1.59361"
-       style="fill:#ff0000;fill-opacity:0;stroke:#969696;stroke-width:1.22920072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 312.79941,21.102101 -84.20475,0 0,103.689989 -1.88211,1.27456 3.68532,-0.0115 -1.81842,-1.22031"
+       style="fill:none;fill-opacity:1;stroke:#969696;stroke-width:0.72199994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -163,14 +315,14 @@
          id="text4821"
          y="307.21964"
          x="8.6091118"
-         style="font-size:14.13787746px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+         style="font-style:normal;font-weight:normal;font-size:14.13787746px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-size:9.08863544px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#4d4d4d;fill-opacity:1;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#4d4d4d;fill-opacity:1"
            y="307.21964"
            x="8.6091118"
            id="tspan4823"
            sodipodi:role="line">- offset -   0 1  2 3  4 5  6 7  8 9  A B  C D  E F  0123456789ABCDEF</tspan><tspan
-           style="font-size:9.08863544px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
            id="tspan4825"
            y="318.58044"
            x="8.6091118"
@@ -179,7 +331,7 @@
              style="fill:#008000">0xff9fa5e8</tspan><tspan
              id="tspan4873"
              style="fill:#cccccc">  c85d 51f7 58e8 6df7 0080 0000 00b0 6bf7  .]Q.X.m.......k.</tspan></tspan><tspan
-           style="font-size:9.08863544px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
            id="tspan4827"
            y="329.94122"
            x="8.6091118"
@@ -188,7 +340,7 @@
              style="fill:#008000">0xff9fa5f8</tspan><tspan
              id="tspan4875"
              style="fill:#cccccc">  4492 6bf7 ec10 52f7 0100 0000 0300 0000  D.k...R.........</tspan></tspan><tspan
-           style="font-size:9.08863544px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
            id="tspan4829"
            y="341.30203"
            x="8.6091118"
@@ -197,7 +349,7 @@
              style="fill:#008000">0xff9fa608</tspan><tspan
              id="tspan4877"
              style="fill:#cccccc">  507a 53f7 ab84 0408 0100 0000 d4a6 9fff  PzS.............</tspan></tspan><tspan
-           style="font-size:9.08863544px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
            id="tspan4831"
            y="352.66281"
            x="8.6091118"
@@ -212,7 +364,7 @@
              style="fill:#cccccc">  ....</tspan><tspan
              id="tspan4869"
              style="fill:#ff0000">......k.@...</tspan></tspan><tspan
-           style="font-size:9.08863544px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
            id="tspan4833"
            y="364.02362"
            x="8.6091118"
@@ -221,43 +373,25 @@
              style="fill:#008000">0xff9fa628</tspan><tspan
              id="tspan4857"
              style="fill:#ff0000">  0000 0000 3716 52f7 00b0 6bf7 00b0 6bf7  ....7.R...k...k.</tspan></tspan><tspan
-           style="font-size:9.08863544px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ff0000"
            id="tspan4835"
            y="375.3844"
            x="8.6091118"
            sodipodi:role="line"><tspan
    id="tspan4861"
    style="fill:#008000">0xff9fa638</tspan>  0000 0000 3716 52f7 0100 0000 d4a6 9fff  ....7.R.........</tspan><tspan
-           style="font-size:9.08863544px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#ff0000"
            id="tspan4837"
            y="386.74521"
            x="8.6091118"
            sodipodi:role="line"><tspan
    id="tspan4863"
    style="fill:#008000">0xff9fa648</tspan>  dca6 9fff 0000 0000 0000 0000 0000 0000  ................</tspan><tspan
-           style="font-size:9.08863544px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
            id="tspan4839"
            y="398.10599"
            x="8.6091118"
-           sodipodi:role="line"><tspan
-   style="fill:#008000"
-   id="tspan4871">0xff9fa658</tspan><tspan
-   id="tspan4855"
-   style="fill:#ff0000">  00b0 6bf7 047c 70f7 0070 70f7 0000 0000  ..k..|p..pp....</tspan>.</tspan></text>
-      <g
-         transform="matrix(1.1181117,0,0,1.1726001,-32.65757,17.791805)"
-         id="g5055">
-        <path
-           style="fill:#00ffff;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           d="m 142.52684,275.15154 0,12.97773 1.82544,1.82544 z"
-           id="path5051"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path5053"
-           d="m 141.26499,275.15154 0,12.97773 -1.82543,1.82544 z"
-           style="fill:#00ffff;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      </g>
+           sodipodi:role="line" /></text>
     </g>
     <g
        id="g5081"
@@ -294,95 +428,58 @@
            id="tspan5079"
            style="fill:#008000">0xff9fa61c </tspan></tspan></tspan></tspan></tspan></tspan></text>
     </g>
-    <g
-       id="g5091"
-       transform="translate(141.11886,-171.99991)">
-      <rect
-         style="fill:#e6e6e6;stroke:#858585;stroke-width:0.72212195;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="rect5093"
-         width="175.93399"
-         height="16.894323"
-         x="171.92734"
-         y="176.20758"
-         inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <text
-         xml:space="preserve"
-         style="font-size:11.48888969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
-         x="207.50713"
-         y="188.93784"
-         id="text5095"
-         sodipodi:linespacing="125%"
-         inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_1.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90"><tspan
-           sodipodi:role="line"
-           id="tspan5097"
-           x="207.50713"
-           y="188.93784">ESP: <tspan
-   style="fill:#008000"
-   id="tspan5237">0xff9fa620 </tspan></tspan></text>
-      <path
-         style="fill:#00ffff;stroke:#000000;stroke-width:0.58465683;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         d="m 91.98497,313.28657 59.31852,0 -59.31852,2.88354 z"
-         id="path5239"
-         inkscape:connector-curvature="0"
-         inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_1.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path5241"
-         d="m 22.760352,584.49631 59.318527,0 -59.318527,2.88354 z"
-         style="fill:#00ffff;stroke:#000000;stroke-width:0.58465683;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_2.png"
-         inkscape:export-xdpi="90"
-         inkscape:export-ydpi="90" />
-      <rect
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
-         y="696.20758"
-         x="171.92734"
-         height="16.894323"
-         width="175.93399"
-         id="rect3162"
-         style="fill:#e6e6e6;stroke:#858585;stroke-width:0.72212195;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <text
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
-         sodipodi:linespacing="125%"
-         id="text3164"
-         y="708.93787"
-         x="207.50713"
-         style="font-size:11.48888969px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
-         xml:space="preserve"><tspan
-           y="708.93787"
-           x="207.50713"
-           id="tspan3166"
-           sodipodi:role="line">ESP: <tspan
-   id="tspan3168"
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
+       y="4.2076707"
+       x="313.0462"
+       height="16.894323"
+       width="175.93399"
+       id="rect5093"
+       style="fill:#e6e6e6;stroke:#858585;stroke-width:0.722;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_1.png"
+       sodipodi:linespacing="125%"
+       id="text5095"
+       y="16.937925"
+       x="348.62598"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.48888969px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="16.937925"
+         x="348.62598"
+         id="tspan5097"
+         sodipodi:role="line">ESP: <tspan
+   id="tspan5237"
    style="fill:#008000">0xff9fa620 </tspan></tspan></text>
-      <path
-         inkscape:export-ydpi="90"
-         inkscape:export-xdpi="90"
-         inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
-         inkscape:connector-curvature="0"
-         id="path3170"
-         d="m 91.98497,833.28657 59.31852,0 -59.31852,2.88354 z"
-         style="fill:#00ffff;stroke:#000000;stroke-width:0.58465683;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-    </g>
-    <path
-       style="fill:#ff0000;fill-opacity:0;stroke:#969696;stroke-width:1.21958697px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 157.56914,391.42944 2.6236,1.56972 -3.92499,0.0309 1.88098,-1.2245 0,-99.61804 84.15462,0 69.46397,0 1.26052,0"
-       id="path5235"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc"
-       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_2.png"
+    <rect
+       style="fill:#e6e6e6;stroke:#858585;stroke-width:0.72212195;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3162"
+       width="175.93399"
+       height="16.894323"
+       x="313.0462"
+       y="524.20764"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.48888969px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="348.62598"
+       y="536.93793"
+       id="text3164"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3166"
+         x="348.62598"
+         y="536.93793">ESP: <tspan
+   style="fill:#008000"
+   id="tspan3168">0xff9fa620 </tspan></tspan></text>
     <g
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
@@ -392,7 +489,7 @@
       <flowRoot
          xml:space="preserve"
          id="flowRoot3082"
-         style="font-size:9.08863544px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          transform="translate(-17.984638,93.439274)"><flowRegion
            id="flowRegion3084"><rect
              id="rect3086"
@@ -400,7 +497,7 @@
              height="95.857651"
              x="26.609203"
              y="24.152571"
-             style="font-size:9.08863544px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.08863544px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'" /></flowRegion><flowPara
            id="flowPara3088"
            style="fill:#4d4d4d">- offset -   0 1  2 3  4 5  6 7  8 9  A B  C D  E F  0123456789ABCDEF</flowPara><flowPara
            id="flowPara3090"><flowSpan
@@ -422,11 +519,15 @@
              style="fill:#008000"
              id="flowSpan3110">0xff9fa618</flowSpan><flowSpan
              style="fill:#cccccc"
-             id="flowSpan3112">  dca6 9fff 0300 0000 </flowSpan><flowSpan
+             id="flowSpan3112">  dca6 9fff </flowSpan><flowSpan
+             id="flowSpan4567"
+             style="fill:#008080">0300 0000 </flowSpan><flowSpan
              style="fill:#ff0000"
              id="flowSpan3114">dcb3 6bf7 40a6 9fff</flowSpan><flowSpan
              style="fill:#cccccc"
-             id="flowSpan3116">  ........</flowSpan><flowSpan
+             id="flowSpan3116">   ....</flowSpan><flowSpan
+             id="flowSpan4569"
+             style="fill:#008080">....</flowSpan><flowSpan
              style="fill:#ff0000"
              id="flowSpan3118">..k.@...</flowSpan></flowPara><flowPara
            id="flowPara3120"><flowSpan
@@ -444,39 +545,7 @@
              id="flowSpan3134">0xff9fa648</flowSpan><flowSpan
              style="fill:#ff0000"
              id="flowSpan3136">  dca6 9fff 0000 0000 0000 0000 0000 0000  ................</flowSpan></flowPara><flowPara
-           id="flowPara3138">0xff9fa658  00b0 6bf7 047c 70f7 0070 70f7 0000 0000  ..k..|p..pp.....</flowPara></flowRoot>      <g
-         transform="matrix(1.1181117,0,0,1.1726001,22.242496,-162.03014)"
-         id="g3140">
-        <path
-           style="fill:#00ffff;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           d="m 142.52684,275.15154 0,12.97773 1.82544,1.82544 z"
-           id="path3142"
-           inkscape:connector-curvature="0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path3144"
-           d="m 141.26499,275.15154 0,12.97773 -1.82543,1.82544 z"
-           style="fill:#00ffff;stroke:#000000;stroke-width:0.39998889;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      </g>
-    </g>
-    <path
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
-       sodipodi:nodetypes="cccccc"
-       inkscape:connector-curvature="0"
-       id="path3146"
-       d="m 312.64617,540.92962 -84.20475,0 0,101.13453 -1.88211,1.24314 3.92734,-0.0314 -2.62516,-1.59361"
-       style="fill:#ff0000;fill-opacity:0;stroke:#969696;stroke-width:1.22920072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       inkscape:export-ydpi="90"
-       inkscape:export-xdpi="90"
-       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
-       style="fill:#ff0000;fill-opacity:0;stroke:#969696;stroke-width:1.22920072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 312.64617,540.92962 -84.20475,0 0,101.13453 -1.88211,1.24314 3.92734,-0.0314 -2.62516,-1.59361"
-       id="path3148"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
+           id="flowPara3138">0xff9fa658  00b0 6bf7 047c 70f7 0070 70f7 0000 0000  ..k..|p..pp.....</flowPara></flowRoot>    </g>
     <g
        id="g3150"
        transform="matrix(1.2765433,0,0,1.2765433,177.60032,465.57362)"
@@ -511,5 +580,37 @@
    id="tspan3160">0x00000003 </tspan></tspan></text>
       </g>
     </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#808000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#StopL);marker-end:url(#TriangleInM)"
+       d="m 228.58314,128.65575 0,13.8361 69.01045,0"
+       id="path4271"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
+       style="fill:none;fill-opacity:1;stroke:#969696;stroke-width:0.722;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 313.15899,292.41115 -154.39467,0 0,104.33593 -1.14938,1.06232 2.1339,0.008 -1.01241,-1.02778"
+       id="path4557"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/stack_push_pop_3.png"
+       style="fill:none;fill-opacity:1;stroke:#969696;stroke-width:0.72199994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 312.79941,541.1013 -84.20475,0 0,104.48845 -1.36871,1.27012 2.64425,0.003 -1.29075,-1.22971"
+       id="path4571"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4573"
+       d="m 158.62305,399.98492 0,13.8361 69.01045,0"
+       style="fill:none;fill-rule:evenodd;stroke:#808000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker4575);marker-end:url(#marker4579)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
