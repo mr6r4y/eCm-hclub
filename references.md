@@ -21,6 +21,7 @@ https://yurichev.com/ | RE4B-EN author's site
 [Intel Processor Manuals](https://software.intel.com/en-us/articles/intel-sdm) | They are huge but if you know what you are searching, they are the best reference for x86 architecture.
 [x86 Instruction Reference](http://www.felixcloutier.com/x86/) | Extract from Intel manuals. Very good for quick reference
 [Another x86 Reference](http://ref.x86asm.net/) | This one is with shorter descriptions and is table like
+[x86 oddities](https://github.com/corkami/docs/blob/master/x86/x86.md) | Very good article on `x86` bugs and undocumented behaviour with examples
 
 
 ## Tools
