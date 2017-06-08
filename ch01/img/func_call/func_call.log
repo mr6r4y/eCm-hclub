@@ -1,0 +1,66 @@
+            ;-- main:
+/ (fcn) sym.main 50
+|   sym.main ();
+|           ; var int local_ch @ ebp-0xc
+|           ; var int local_4h_2 @ ebp-0x4
+|           ; var int local_4h @ esp+0x4
+|              ; DATA XREF from 0x08048327 (entry0)
+|           0x08048470      8d4c2404       lea ecx, [local_4h]
+|           0x08048474      83e4f0         and esp, 0xfffffff0
+|           0x08048477      ff71fc         push dword [ecx - 4]
+|           0x0804847a      55             push ebp
+|           0x0804847b      89e5           mov ebp, esp
+|           0x0804847d      51             push ecx
+|           0x0804847e      83ec14         sub esp, 0x14
+|           0x08048481      83ec04         sub esp, 4
+|           0x08048484      6a06           push 6
+|           0x08048486      6a05           push 5
+|           0x08048488      6a04           push 4
+|           0x0804848a      e87cffffff     call sym.my_func
+|           0x0804848f      83c410         add esp, 0x10
+|           0x08048492      8945f4         mov dword [local_ch], eax
+|           0x08048495      b800000000     mov eax, 0
+|           0x0804849a      8b4dfc         mov ecx, dword [local_4h_2]
+|           0x0804849d      c9             leave
+|           0x0804849e      8d61fc         lea esp, [ecx - 4]
+\           0x080484a1      c3             ret
+/ (fcn) sym.my_func 101
+|   sym.my_func (int arg_8h, int arg_ch, int arg_10h);
+|           ; var int local_14h @ ebp-0x14
+|           ; var int local_10h @ ebp-0x10
+|           ; var int local_ch @ ebp-0xc
+|           ; arg int arg_8h @ ebp+0x8
+|           ; arg int arg_ch @ ebp+0xc
+|           ; arg int arg_10h @ ebp+0x10
+|              ; CALL XREF from 0x0804848a (sym.main)
+|           0x0804840b      55             push ebp
+|           0x0804840c      89e5           mov ebp, esp
+|           0x0804840e      83ec18         sub esp, 0x18
+|           0x08048411      c745ec010000.  mov dword [local_14h], 1
+|           0x08048418      c745f0020000.  mov dword [local_10h], 2
+|           0x0804841f      c745f4030000.  mov dword [local_ch], 3
+|           0x08048426      ff75f4         push dword [local_ch]
+|           0x08048429      ff75f0         push dword [local_10h]
+|           0x0804842c      ff75ec         push dword [local_14h]
+|           0x0804842f      6830850408     push str.Locals:__d___d___d_n ; 0x8048530 ; "Locals: %d, %d, %d."
+|           0x08048434      e8a7feffff     call sym.imp.printf         ; int printf(const char *format)
+|           0x08048439      83c410         add esp, 0x10
+|           0x0804843c      ff7510         push dword [arg_10h]
+|           0x0804843f      ff750c         push dword [arg_ch]
+|           0x08048442      ff7508         push dword [arg_8h]
+|           0x08048445      6844850408     push str.Arguments:__d___d___d_n ; 0x8048544 ; "Arguments: %d, %d, %d."
+|           0x0804844a      e891feffff     call sym.imp.printf         ; int printf(const char *format)
+|           0x0804844f      83c410         add esp, 0x10
+|           0x08048452      8b55ec         mov edx, dword [local_14h]
+|           0x08048455      8b45f0         mov eax, dword [local_10h]
+|           0x08048458      01c2           add edx, eax
+|           0x0804845a      8b45f4         mov eax, dword [local_ch]
+|           0x0804845d      01c2           add edx, eax
+|           0x0804845f      8b4508         mov eax, dword [arg_8h]     ; [0x8:4]=0
+|           0x08048462      01c2           add edx, eax
+|           0x08048464      8b450c         mov eax, dword [arg_ch]     ; [0xc:4]=0
+|           0x08048467      01c2           add edx, eax
+|           0x08048469      8b4510         mov eax, dword [arg_10h]    ; [0x10:4]=0x30002
+|           0x0804846c      01d0           add eax, edx
+|           0x0804846e      c9             leave
+\           0x0804846f      c3             ret

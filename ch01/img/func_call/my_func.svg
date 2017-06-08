@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<g font-family="monospace" font-size="14px">
+<text x="0" y="14" xml:space="preserve"><tspan fill="#0000FF">push</tspan>&#160;<tspan fill="#008000">ebp</tspan></text>
+<text x="0" y="33" xml:space="preserve"><tspan fill="#0000FF">mov</tspan>&#160;<tspan fill="#008000">ebp</tspan>,&#160;<tspan fill="#008000">esp</tspan></text>
+<text x="0" y="52" xml:space="preserve"><tspan fill="#0000FF">sub</tspan>&#160;<tspan fill="#008000">esp</tspan>,&#160;<tspan fill="#666666">0x18</tspan></text>
+<text x="0" y="71" xml:space="preserve"><tspan fill="#0000FF">mov</tspan>&#160;<tspan fill="#B00040">dword</tspan>&#160;[<tspan fill="#19177C">local_14h</tspan>],&#160;<tspan fill="#666666">1</tspan></text>
+<text x="0" y="90" xml:space="preserve"><tspan fill="#0000FF">mov</tspan>&#160;<tspan fill="#B00040">dword</tspan>&#160;[<tspan fill="#19177C">local_10h</tspan>],&#160;<tspan fill="#666666">2</tspan></text>
+<text x="0" y="109" xml:space="preserve"><tspan fill="#0000FF">mov</tspan>&#160;<tspan fill="#B00040">dword</tspan>&#160;[<tspan fill="#19177C">local_ch</tspan>],&#160;<tspan fill="#666666">3</tspan></text>
+<text x="0" y="128" xml:space="preserve"><tspan fill="#0000FF">push</tspan>&#160;<tspan fill="#B00040">dword</tspan>&#160;[<tspan fill="#19177C">local_ch</tspan>]</text>
+<text x="0" y="147" xml:space="preserve"><tspan fill="#0000FF">push</tspan>&#160;<tspan fill="#B00040">dword</tspan>&#160;[<tspan fill="#19177C">local_10h</tspan>]</text>
+<text x="0" y="166" xml:space="preserve"><tspan fill="#0000FF">push</tspan>&#160;<tspan fill="#B00040">dword</tspan>&#160;[<tspan fill="#19177C">local_14h</tspan>]</text>
+<text x="0" y="185" xml:space="preserve"><tspan fill="#0000FF">push</tspan>&#160;<tspan fill="#19177C">str.Locals</tspan>:<tspan fill="#19177C">__d___d___d_n</tspan>&#160;<tspan fill="#408080" font-style="italic">;&#160;0x8048530&#160;;&#160;&quot;Locals:&#160;%d,&#160;%d,&#160;%d.&quot;</tspan></text>
+<text x="0" y="204" xml:space="preserve"><tspan fill="#0000FF">call</tspan>&#160;<tspan fill="#19177C">sym.imp.printf</tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#408080" font-style="italic">;&#160;int&#160;printf(const&#160;char&#160;*format)</tspan></text>
+<text x="0" y="223" xml:space="preserve"><tspan fill="#0000FF">add</tspan>&#160;<tspan fill="#008000">esp</tspan>,&#160;<tspan fill="#666666">0x10</tspan></text>
+<text x="0" y="242" xml:space="preserve"><tspan fill="#0000FF">push</tspan>&#160;<tspan fill="#B00040">dword</tspan>&#160;[<tspan fill="#19177C">arg_10h</tspan>]</text>
+<text x="0" y="261" xml:space="preserve"><tspan fill="#0000FF">push</tspan>&#160;<tspan fill="#B00040">dword</tspan>&#160;[<tspan fill="#19177C">arg_ch</tspan>]</text>
+<text x="0" y="280" xml:space="preserve"><tspan fill="#0000FF">push</tspan>&#160;<tspan fill="#B00040">dword</tspan>&#160;[<tspan fill="#19177C">arg_8h</tspan>]</text>
+<text x="0" y="299" xml:space="preserve"><tspan fill="#0000FF">push</tspan>&#160;<tspan fill="#19177C">str.Arguments</tspan>:<tspan fill="#19177C">__d___d___d_n</tspan>&#160;<tspan fill="#408080" font-style="italic">;&#160;0x8048544&#160;;&#160;&quot;Arguments:&#160;%d,&#160;%d,&#160;%d.&quot;</tspan></text>
+<text x="0" y="318" xml:space="preserve"><tspan fill="#0000FF">call</tspan>&#160;<tspan fill="#19177C">sym.imp.printf</tspan>&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;<tspan fill="#408080" font-style="italic">;&#160;int&#160;printf(const&#160;char&#160;*format)</tspan></text>
+<text x="0" y="337" xml:space="preserve"><tspan fill="#0000FF">add</tspan>&#160;<tspan fill="#008000">esp</tspan>,&#160;<tspan fill="#666666">0x10</tspan></text>
+<text x="0" y="356" xml:space="preserve"><tspan fill="#0000FF">mov</tspan>&#160;<tspan fill="#008000">edx</tspan>,&#160;<tspan fill="#B00040">dword</tspan>&#160;[<tspan fill="#19177C">local_14h</tspan>]</text>
+<text x="0" y="375" xml:space="preserve"><tspan fill="#0000FF">mov</tspan>&#160;<tspan fill="#008000">eax</tspan>,&#160;<tspan fill="#B00040">dword</tspan>&#160;[<tspan fill="#19177C">local_10h</tspan>]</text>
+<text x="0" y="394" xml:space="preserve"><tspan fill="#0000FF">add</tspan>&#160;<tspan fill="#008000">edx</tspan>,&#160;<tspan fill="#008000">eax</tspan></text>
+<text x="0" y="413" xml:space="preserve"><tspan fill="#0000FF">mov</tspan>&#160;<tspan fill="#008000">eax</tspan>,&#160;<tspan fill="#B00040">dword</tspan>&#160;[<tspan fill="#19177C">local_ch</tspan>]</text>
+<text x="0" y="432" xml:space="preserve"><tspan fill="#0000FF">add</tspan>&#160;<tspan fill="#008000">edx</tspan>,&#160;<tspan fill="#008000">eax</tspan></text>
+<text x="0" y="451" xml:space="preserve"><tspan fill="#0000FF">mov</tspan>&#160;<tspan fill="#008000">eax</tspan>,&#160;<tspan fill="#B00040">dword</tspan>&#160;[<tspan fill="#19177C">arg_8h</tspan>]&#160;&#160;&#160;&#160;&#160;<tspan fill="#408080" font-style="italic">;&#160;[0x8:4]=0</tspan></text>
+<text x="0" y="470" xml:space="preserve"><tspan fill="#0000FF">add</tspan>&#160;<tspan fill="#008000">edx</tspan>,&#160;<tspan fill="#008000">eax</tspan></text>
+<text x="0" y="489" xml:space="preserve"><tspan fill="#0000FF">mov</tspan>&#160;<tspan fill="#008000">eax</tspan>,&#160;<tspan fill="#B00040">dword</tspan>&#160;[<tspan fill="#19177C">arg_ch</tspan>]&#160;&#160;&#160;&#160;&#160;<tspan fill="#408080" font-style="italic">;&#160;[0xc:4]=0</tspan></text>
+<text x="0" y="508" xml:space="preserve"><tspan fill="#0000FF">add</tspan>&#160;<tspan fill="#008000">edx</tspan>,&#160;<tspan fill="#008000">eax</tspan></text>
+<text x="0" y="527" xml:space="preserve"><tspan fill="#0000FF">mov</tspan>&#160;<tspan fill="#008000">eax</tspan>,&#160;<tspan fill="#B00040">dword</tspan>&#160;[<tspan fill="#19177C">arg_10h</tspan>]&#160;&#160;&#160;&#160;<tspan fill="#408080" font-style="italic">;&#160;[0x10:4]=0x30002</tspan></text>
+<text x="0" y="546" xml:space="preserve"><tspan fill="#0000FF">add</tspan>&#160;<tspan fill="#008000">eax</tspan>,&#160;<tspan fill="#008000">edx</tspan></text>
+<text x="0" y="565" xml:space="preserve"><tspan fill="#0000FF">leave</tspan></text>
+<text x="0" y="584" xml:space="preserve"><tspan fill="#0000FF">ret</tspan></text>
+<text x="0" y="603" xml:space="preserve"></text></g></svg>
