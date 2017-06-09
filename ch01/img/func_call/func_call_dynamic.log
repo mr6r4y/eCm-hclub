@@ -1,0 +1,95 @@
+Stack:
+- offset -   0 1  2 3  4 5  6 7  8 9  A B  C D  E F  0123456789ABCDEF
+0xffd7d510  c4d5 d7ff 38d5 d7ff 30d5 d7ff 3d82 0408  ....8...0...=...
+0xffd7d520  3889 75f7 0000 0000 c200 0000 16dc 5ef7  8.u...........^.
+0xffd7d530  ffff ffff 5ed5 d7ff 343c 56f7 f3a2 58f7  ....^...4<V...X.
+0xffd7d540  0000 0000 0000 c300 0100 0000 bd82 0408  ................
+0xffd7d550  cbe2 d7ff 2f00 0000 00a0 0408 bd84 0408  ..../...........
+0xffd7d560  0400 0000 0500 0000 0600 0000 ada4 58f7  ..............X.
+0xffd7d570  c433 70f7 0080 75f7 db84 0408 0030 70f7  .3p...u......0p.
+0xffd7d580  d084 0408 0000 0000 0000 0000 f30a 57f7  ..............W.
+0xffd7d590  0100 0000 24d6 d7ff 2cd6 d7ff ca5c 74f7  ....$...,....\t.
+0xffd7d5a0  0100 0000 24d6 d7ff c4d5 d7ff 14a0 0408  ....$...........
+0xffd7d5b0  1c82 0408 0030 70f7 0000 0000 0000 0000  .....0p.........
+0xffd7d5c0  0000 0000 4158 ba3c 501c 043d 0000 0000  ....AX.<P..=....
+0xffd7d5d0  0000 0000 0000 0000 0100 0000 2083 0408  ............ ...
+0xffd7d5e0  0000 0000 c0b4 74f7 090a 57f7 0080 75f7  ......t...W...u.
+0xffd7d5f0  0100 0000 2083 0408 0000 0000 4183 0408  .... .......A...
+0xffd7d600  9884 0408 0100 0000 24d6 d7ff d084 0408  ........$.......
+
+EIP:
+0x0804841d
+ESP:
+0xffd7d55c
+EBP:
+0xffd7d588
+
+
+0x08048484      6a06           push 6
+0x08048486      6a05           push 5
+0x08048488      6a04           push 4
+0x0804848a      e87cffffff     call sym.my_func
+0x0804848f      83c410         add esp, 0x10
+
+
+            ;-- main:
+┌ (fcn) sym.main 43
+│   sym.main ();
+│           ; var int local_4h @ esp+0x4
+│           ; var int local_8h @ esp+0x8
+│           ; var int local_1ch @ esp+0x1c
+│              ; DATA XREF from 0x08048337 (entry0)
+│           0x08048498      55             push ebp
+│           0x08048499      89e5           mov ebp, esp
+│           0x0804849b      83e4f0         and esp, 0xfffffff0
+│           0x0804849e      83ec20         sub esp, 0x20
+│           0x080484a1      c74424080600.  mov dword [local_8h], 6
+│           0x080484a9      c74424040500.  mov dword [local_4h], 5
+│           0x080484b1      c70424040000.  mov dword [esp], 4
+│           0x080484b8      e860ffffff     call sym.my_func
+│           0x080484bd      8944241c       mov dword [local_1ch], eax
+│           0x080484c1      c9             leave
+└           0x080484c2      c3             ret
+
+
+(fcn) sym.my_func 123
+  sym.my_func (int arg_8h, int arg_ch, int arg_10h);
+          ; var int local_14h @ ebp-0x14
+          ; var int local_10h @ ebp-0x10
+          ; var int local_ch @ ebp-0xc
+          ; arg int arg_8h @ ebp+0x8
+          ; arg int arg_ch @ ebp+0xc
+          ; arg int arg_10h @ ebp+0x10
+          ; var int local_4h @ esp+0x4
+          ; var int local_8h @ esp+0x8
+          ; var int local_ch_2 @ esp+0xc
+             ; CALL XREF from 0x080484b8 (sym.main)
+          0x0804841d b    55             push ebp
+          0x0804841e      89e5           mov ebp, esp
+          0x08048420      83ec28         sub esp, 0x28               ; '('
+
+Stack:
+- offset -   0 1  2 3  4 5  6 7  8 9  A B  C D  E F  0123456789ABCDEF
+0xffd7d510  c4d5 d7ff 38d5 d7ff 30d5 d7ff 3d82 0408  ....8...0...=...
+0xffd7d520  3889 75f7 0000 0000 c200 0000 16dc 5ef7  8.u...........^.
+0xffd7d530  ffff ffff 5ed5 d7ff 343c 56f7 f3a2 58f7  ....^...4<V...X.
+0xffd7d540  0000 0000 0000 c300 0100 0000 bd82 0408  ................
+0xffd7d550  cbe2 d7ff 2f00 0000 88d5 d7ff bd84 0408  ..../...........
+0xffd7d560  0400 0000 0500 0000 0600 0000 ada4 58f7  ..............X.
+0xffd7d570  c433 70f7 0080 75f7 db84 0408 0030 70f7  .3p...u......0p.
+0xffd7d580  d084 0408 0000 0000 0000 0000 f30a 57f7  ..............W.
+0xffd7d590  0100 0000 24d6 d7ff 2cd6 d7ff ca5c 74f7  ....$...,....\t.
+0xffd7d5a0  0100 0000 24d6 d7ff c4d5 d7ff 14a0 0408  ....$...........
+0xffd7d5b0  1c82 0408 0030 70f7 0000 0000 0000 0000  .....0p.........
+0xffd7d5c0  0000 0000 4158 ba3c 501c 043d 0000 0000  ....AX.<P..=....
+0xffd7d5d0  0000 0000 0000 0000 0100 0000 2083 0408  ............ ...
+0xffd7d5e0  0000 0000 c0b4 74f7 090a 57f7 0080 75f7  ......t...W...u.
+0xffd7d5f0  0100 0000 2083 0408 0000 0000 4183 0408  .... .......A...
+0xffd7d600  9884 0408 0100 0000 24d6 d7ff d084 0408  ........$.......
+
+EIP:
+0x08048423
+ESP:
+0xffd7d530
+EBP:
+0xffd7d558
