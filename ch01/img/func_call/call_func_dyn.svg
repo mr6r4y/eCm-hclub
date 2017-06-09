@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="457.20018"
-     inkscape:cy="-189.80241"
+     inkscape:zoom="5.6"
+     inkscape:cx="332.3407"
+     inkscape:cy="-101.10356"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -131,7 +131,7 @@
        inkscape:collect="always">
       <path
          transform="scale(-0.4)"
-         style="fill:#858585;fill-opacity:1;fill-rule:evenodd;stroke:#858585;stroke-width:1.00000003pt;stroke-opacity:1"
+         style="fill:#808000;fill-opacity:1;fill-rule:evenodd;stroke:#808000;stroke-width:1.00000003pt;stroke-opacity:1"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path15702"
          inkscape:connector-curvature="0" />
@@ -759,8 +759,11 @@
        inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/func_call_dyn_1.png" />
     <g
        id="g9403-5"
-       transform="translate(274.34517,837.59884)"
-       style="opacity:1">
+       transform="translate(274.34517,823.59884)"
+       style="opacity:1"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/func_call_dyn_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="-142.58174"
          x="80.454239"
@@ -782,21 +785,30 @@
    id="tspan5071-2-7"
    style="font-size:12.00000095px;fill:#008000;stroke-width:1.36164618">0xffd7d558</tspan></tspan></text>
     </g>
-    <path
-       style="opacity:1;fill:none;stroke:#858585;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker9747-7)"
-       d="m 354.78131,712.95557 h -82.55117 v 98.16132"
-       id="path10055-4"
-       inkscape:connector-curvature="0" />
     <rect
        style="opacity:0.4;fill:#f2f2f2;fill-opacity:0.97826089;stroke:#858585;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect27728-1"
        width="539.28571"
        height="310"
        x="24.898972"
-       y="712.85718" />
+       y="712.85718"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/func_call_dyn_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;stroke:#858585;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker9747-7)"
+       d="m 354.78131,699.0239 h -82.55117 v 112.093"
+       id="path10055-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/func_call_dyn_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g27789"
-       transform="translate(93.377113,-45.714233)">
+       transform="translate(93.377113,-45.714233)"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/func_call_dyn_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="1068.5714"
          x="-68.478142"
@@ -821,27 +833,33 @@
        d="m 123.74368,830.02062 v 14.7585 h 219.96071"
        style="fill:none;fill-rule:evenodd;stroke:#808000;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker4575-9-7-5);marker-end:url(#marker4579-1-4-5)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/func_call_dyn_2.png" />
     <path
        inkscape:connector-curvature="0"
        id="path4573-4-7"
        d="m 272.23612,814.54228 v 14.7585 h 71.46829"
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#808000;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker4575-9-4);marker-end:url(#marker4579-1-3)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/func_call_dyn_2.png" />
     <path
        inkscape:export-ydpi="90"
        inkscape:export-xdpi="90"
        style="opacity:0.5;fill:none;fill-rule:evenodd;stroke:#808000;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker14638);marker-end:url(#marker14732)"
        d="m 272.23611,859.91093 v 14.7585 h 71.46828"
        id="path14634"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/func_call_dyn_2.png" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none"
        x="45.456863"
        y="751.53394"
-       id="text6160-3"><tspan
+       id="text6160-3"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/func_call_dyn_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          sodipodi:role="line"
          id="tspan6158-6"
          x="45.456863"
@@ -969,10 +987,16 @@
        style="opacity:0.5;fill:none;fill-opacity:1;stroke:#808000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker15704)"
        d="m 273.40332,829.30078 v 27.128"
        id="path15622"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/func_call_dyn_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        id="g9397-3"
-       transform="translate(12.202302,700.00002)">
+       transform="translate(12.202302,700.00002)"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/func_call_dyn_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="-47.581753"
          x="342.59711"
@@ -1000,12 +1024,16 @@
        d="m 123.85002,784.57179 v 14.7585 h 74.42286"
        style="opacity:1;fill:none;fill-rule:evenodd;stroke:#808000;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker4575-9-4-6);marker-end:url(#marker4579-1-3-9)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/func_call_dyn_2.png" />
     <path
        style="fill:none;stroke:#858585;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker20711)"
        d="M 354.79941,670.42915 H 123.57143 v 109.92247"
        id="path20701"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/func_call_dyn_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <g
        transform="translate(-546.55443,158.23105)"
        id="g21001"
@@ -1041,7 +1069,10 @@
        inkscape:export-ydpi="90" />
     <g
        transform="translate(-546.55443,842.58174)"
-       id="g21001-7">
+       id="g21001-7"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/func_call_dyn_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="-46.251667"
          x="356.686"
@@ -1065,7 +1096,10 @@
        inkscape:connector-curvature="0"
        id="path21005-7"
        d="m -2.2055,814.35069 h 125.94919 v 11.42857"
-       style="fill:none;stroke:#858585;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker21015-4)" />
+       style="fill:none;stroke:#858585;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker21015-4)"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/func_call_dyn_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="fill:#e6e6e6;stroke:#858585;stroke-width:0.77026343;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5065-2"
@@ -1104,20 +1138,27 @@
        d="m 343.70441,814.54228 v 14.7585 h 74.4695"
        style="fill:none;fill-rule:evenodd;stroke:#808000;stroke-width:1.06666672px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker4575-91);marker-end:url(#marker4579-7)"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/func_call_dyn_2.png" />
     <rect
        style="fill:#e6e6e6;stroke:#858585;stroke-width:0.77026343;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5065-2-7"
        width="212.66295"
        height="18.020613"
        x="590.44855"
-       y="811.45416" />
+       y="811.45416"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/func_call_dyn_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.3397541px;line-height:0%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.36164618"
        x="613.67358"
        y="824.93811"
-       id="text5067-61-6"><tspan
+       id="text5067-61-6"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/func_call_dyn_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          style="font-size:12.00000095px;line-height:1.25;fill:#ff0000;stroke-width:1.36164618"
          sodipodi:role="line"
          id="tspan5069-0-7"
@@ -1127,13 +1168,19 @@
        inkscape:connector-curvature="0"
        id="path21413-3"
        d="M 590.44854,829.43903 H 422.94174"
-       style="fill:#858585;fill-opacity:1;stroke:#858585;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker21423-1)" />
+       style="fill:#858585;fill-opacity:1;stroke:#858585;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker21423-1)"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/func_call_dyn_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        id="text5290"
        style="font-style:normal;font-weight:normal;font-size:20px;line-height:80.19999862%;font-family:monospace;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        xml:space="preserve"
        x="688.9986"
-       y="862.30084"><tspan
+       y="862.30084"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/func_call_dyn_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
          id="tspan5268"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:80.19999862%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
          sodipodi:role="line"
@@ -1325,6 +1372,9 @@
        style="fill:none;stroke:#858585;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend-5)"
        d="m 590.44855,829.47479 v 125.58653 h 92.67178"
        id="path25778-8"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/pvalov/srcs/my-github/eCm-hclub/ch01/img/func_call_dyn_2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
