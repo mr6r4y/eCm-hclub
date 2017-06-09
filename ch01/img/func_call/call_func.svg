@@ -18,15 +18,15 @@
    inkscape:version="0.92.1 15371">
   <sodipodi:namedview
      inkscape:window-maximized="1"
-     inkscape:window-y="21"
+     inkscape:window-y="25"
      inkscape:window-x="0"
-     inkscape:window-height="1011"
-     inkscape:window-width="1680"
+     inkscape:window-height="719"
+     inkscape:window-width="1366"
      showgrid="false"
-     inkscape:current-layer="g8889-7"
+     inkscape:current-layer="g8405-9"
      inkscape:document-units="px"
-     inkscape:cy="276.06505"
-     inkscape:cx="-138.63884"
+     inkscape:cy="79.94415"
+     inkscape:cx="-68.571429"
      inkscape:zoom="0.7"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -525,7 +525,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -868,7 +868,7 @@
                    id="tspan7285"><tspan
                      xml:space="preserve"
                      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:100%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#0000ff"
-                     id="tspan7279"></tspan></tspan><tspan
+                     id="tspan7279" /></tspan><tspan
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
                    xml:space="preserve"
                    sodipodi:role="line"
@@ -888,7 +888,7 @@
                    id="tspan7295"><tspan
                      xml:space="preserve"
                      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:100%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#0000ff"
-                     id="tspan7287"></tspan></tspan><tspan
+                     id="tspan7287" /></tspan><tspan
                    id="tspan7921"
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
                    xml:space="preserve"
@@ -943,7 +943,7 @@
                    id="tspan7323"><tspan
                      xml:space="preserve"
                      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:100%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#0000ff"
-                     id="tspan7317"></tspan></tspan><tspan
+                     id="tspan7317" /></tspan><tspan
                    id="tspan7915"
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
                    xml:space="preserve"
@@ -1031,7 +1031,7 @@
                    id="tspan7373"><tspan
                      xml:space="preserve"
                      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:100%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#0000ff"
-                     id="tspan7367"></tspan></tspan><tspan
+                     id="tspan7367" /></tspan><tspan
                    id="tspan7909"
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
                    xml:space="preserve"
@@ -1119,7 +1119,7 @@
                    id="tspan7425"><tspan
                      xml:space="preserve"
                      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;line-height:100%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#0000ff"
-                     id="tspan7417"></tspan></tspan><tspan
+                     id="tspan7417" /></tspan><tspan
                    id="tspan7902"
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333302px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono'"
                    xml:space="preserve"
@@ -2401,7 +2401,7 @@
                  id="tspan8393-7"
                  y="657.22998"
                  x="-487.30078"
-                 sodipodi:role="line">  * get back old frame</tspan><tspan
+                 sodipodi:role="line">  * get back old frame and stack</tspan><tspan
                  style="stroke-width:1.14034402"
                  id="tspan8395-9"
                  y="673.89661"
