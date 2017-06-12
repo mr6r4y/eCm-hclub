@@ -22,6 +22,7 @@ https://yurichev.com/ | RE4B-EN author's site
 [x86 Instruction Reference](http://www.felixcloutier.com/x86/) | Extract from Intel manuals. Very good for quick reference
 [Another x86 Reference](http://ref.x86asm.net/) | This one is with shorter descriptions and is table like
 [x86 oddities](https://github.com/corkami/docs/blob/master/x86/x86.md) | Very good article on `x86` bugs and undocumented behaviour with examples
+[Agner Fog's CPU optimization manuals](http://www.agner.org/optimize/) | Famous manuals on CPU optimization that has some intersections with RE
 
 
 ## Tools
