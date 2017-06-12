@@ -13,7 +13,7 @@ be patient everything will be clear soon.
 ## Why Linux
 
 Linux is popular and although there are not many tutorials for RE,
-very decent tools got velocity for this environment. You would not believe it, but
+very decent tools got velocity on this environment. You would not believe it, but
 reversing under Linux is actually simpler than on Windows. Linux is a way simpler under
 the hood than the most popular OS and the concepts can be shown in a clear way.
 
@@ -34,14 +34,16 @@ A VM in OVA format is supplied. It will be available in some time as a Vagrant c
 
 A little knowledge of "What is a computer?" would help. For example if you go through
 https://en.wikipedia.org/wiki/X86 would make my effort explaining basic assembly easier.
-You need to know that PC has a processor with x86 architecture.
+You need to know that a PC has a processor with x86 architecture.
 
 ## Agenda
 
 1. What is Reverse Engineering (RE)
 1. What the skill set can be used for
 1. x86 introduction
-1. Tools - Radare2 fast walk-through
+1. Tools - Radare2 introduction
+1. ELF introduction
+1. Code samples illustrating different code constructs
 1. Demo and excercises
 
 ## References
