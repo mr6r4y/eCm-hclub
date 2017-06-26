@@ -1,23 +1,27 @@
 aaa
 
-!echo 'The main():'
+. crackme0x03_analysis.r2
+
+!echo
 pdf @ main
 !echo
 
-!echo 'The test():'
+!echo
 pdf @ sym.test
-!echo
 
 !echo
-!echo 'See those encoded strings?:'
-pd 0x1 @  sym.test + 0xe
+!echo 'Encoded strings are:'
+!echo
 ps @ str.Lqydolg_Sdvvzrug_
+ps @ str.Lqydolg_Sdvvzrug_ | ./crackme0x03_decode.py
 !echo
-pd 0x1 @ sym.test + 0x1c
-ps @ str.Sdvvzrug_RN______ 
-!echo
+ps @ str.Sdvvzrug_RN______
+ps @ str.Sdvvzrug_RN______ | ./crackme0x03_decode.py
 !echo
 
-!echo 'Crack this one:'
+!echo
 pdf @ sym.shift
 !echo
+
+!echo
+
