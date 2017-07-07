@@ -9,8 +9,8 @@ s main
 
 pdf
 
-!echo
-!echo 'The password is:'
+?e
+?e 'The password is:'
 # ?vi (0x`px0 1 @ main + 0x4a` + `pxH 2 @ main + 0x51~[1]`)*(0x`px0 1 @ main + 0x4a` + `pxH 2 @ main + 0x51~[1]`)
 ?vi (0x5a + 0x1ec) * (0x5a + 0x1ec)
-!echo
+?e

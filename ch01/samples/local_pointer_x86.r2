@@ -2,14 +2,14 @@ aaa
 
 s main
 
-!echo
+?e
 pdf
-!echo
+?e
 
-!echo 'Calling scanf() and arguments on STACK:'
+?e 'Calling scanf() and arguments on STACK:'
 pd 0x4 @ main + 0x15
-!echo
+?e
 
-!echo 'The pointer of X:'
+?e 'The pointer of X:'
 pd 0x2 @ main + 0x15
-!echo
+?e

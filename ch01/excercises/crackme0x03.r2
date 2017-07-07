@@ -2,26 +2,26 @@ aaa
 
 . crackme0x03_analysis.r2
 
-!echo
+?e
 pdf @ main
-!echo
+?e
 
-!echo
+?e
 pdf @ sym.test
 
-!echo
-!echo 'Encoded strings are:'
-!echo
+?e
+?e 'Encoded strings are:'
+?e
 ps @ str.Lqydolg_Sdvvzrug_
 ps @ str.Lqydolg_Sdvvzrug_ | ./crackme0x03_decode.py
-!echo
+?e
 ps @ str.Sdvvzrug_RN______
 ps @ str.Sdvvzrug_RN______ | ./crackme0x03_decode.py
-!echo
+?e
 
-!echo
+?e
 pdf @ sym.shift
-!echo
+?e
 
-!echo
+?e
 

@@ -3,17 +3,17 @@
 
 aaa
 
-!echo
-!echo 'The more important part of the code:'
+?e
+?e 'The more important part of the code:'
 pd 0xa @ 0x08048448
-!echo
+?e
 
-!echo
-!echo 'Hardcoded password as string:'
+?e
+?e 'Hardcoded password as string:'
 pd 0x1 @ 0x0804845e
-!echo
+?e
 
-!echo
-!echo 'The password is:'
+?e
+?e 'The password is:'
 ps @ str.250382
-!echo
+?e

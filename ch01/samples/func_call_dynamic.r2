@@ -12,17 +12,17 @@ pdf @ sym.my_func
 # Continue ..
 dc
 
-!echo
-!echo 'Stack:'
+?e
+?e 'Stack:'
 px @ `dr?esp` & 0xFFFFFFF0 - 0x40
-!echo
-!echo 'EIP:'
+?e
+?e 'EIP:'
 dr?eip
-!echo 'ESP:'
+?e 'ESP:'
 dr?esp
-!echo 'EBP:'
+?e 'EBP:'
 dr?ebp
-!echo
+?e
 
 # Execute the function prologue and stack reserving for local variables
 pd 0x3 @ `dr?eip`
@@ -31,14 +31,14 @@ ds
 ds
 
 # Print stack and function
-!echo
-!echo 'Stack:'
+?e
+?e 'Stack:'
 px @ `dr?esp` & 0xFFFFFFF0 - 0x20
-!echo
-!echo 'EIP:'
+?e
+?e 'EIP:'
 dr?eip
-!echo 'ESP:'
+?e 'ESP:'
 dr?esp
-!echo 'EBP:'
+?e 'EBP:'
 dr?ebp
-!echo
+?e

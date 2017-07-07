@@ -1,23 +1,23 @@
 aaa
 
-!echo 'The main():'
+?e 'The main():'
 pdf @ main
-!echo
+?e
 
-!echo 'The test():'
+?e 'The test():'
 pdf @ sym.test
-!echo
+?e
 
-!echo
-!echo 'See those encoded strings?:'
+?e
+?e 'See those encoded strings?:'
 pd 0x1 @  sym.test + 0xe
 ps @ str.Lqydolg_Sdvvzrug_
-!echo
+?e
 pd 0x1 @ sym.test + 0x1c
 ps @ str.Sdvvzrug_RN______ 
-!echo
-!echo
+?e
+?e
 
-!echo 'Crack this one:'
+?e 'Crack this one:'
 pdf @ sym.shift
-!echo
+?e
