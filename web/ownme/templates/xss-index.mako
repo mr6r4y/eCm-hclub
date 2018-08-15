@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-
-  <title>Basic 1: Sanity Check</title>
+  
+  <title>OwnMe Challenges</title>
 
   <link rel="icon" href="/favicon.ico" />
   <link rel="stylesheet" href="/css/github.css" />
@@ -35,20 +35,16 @@
           <div class="repository-content">
             <div id="readme" class="readme boxed-group clearfix announce instapaper_body md">
             <h3><span class="octicon octicon-book"></span>
-                Basic 1: Sanity Check
+                OwnMe Challenges
             </h3>
               <article class="markdown-body entry-content" itemprop="text" id="grip-content">
 
-                <h2>Can you pop an alert(1)?</h2>
-
-
-<div>Hello, your query is: ${q} </div>
-
-
-                <h3>References:</h3>
                 <ul>
-                    <li><a href="/basic?q=MaQuery">Me</a></li>
-                    <li><a href="/index">Top</a></li>
+                    <li><a href="/basic1?q=MaQuery">Sanity Check 1</a></li>
+                    <li><a href="/basic2?q=MaQuery">Sanity Check 2</a></li>
+                    <li><a href="/xss1?q=MaQuery">XSS 1: My Form</a></li>
+                    <li><a href="/xss2?q=MaQuery">XSS 2: MyLog</a></li>
+                    <li><a href="/xss3#/imgs/smile.png">XSS 3: MyPic</a></li>
                 </ul>
 
               </article>
